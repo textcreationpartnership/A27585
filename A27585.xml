@@ -1,0 +1,626 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The catechism of the kingdom of our Lord Jesus Christ in the thousand years shewing by scripure that the great articles of the redemption, the resurrection, the mystery of the saints not dying but chang'd, the judgment, the delivery up of the kingdom to God all in all cannot be explained at full dimensions without it.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27585</idno>
+            <idno type="STC">Wing B2126</idno>
+            <idno type="STC">ESTC R23687</idno>
+            <idno type="EEBO-CITATION">07873689</idno>
+            <idno type="OCLC">ocm 07873689</idno>
+            <idno type="VID">40234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27585)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40234)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1195:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The catechism of the kingdom of our Lord Jesus Christ in the thousand years shewing by scripure that the great articles of the redemption, the resurrection, the mystery of the saints not dying but chang'd, the judgment, the delivery up of the kingdom to God all in all cannot be explained at full dimensions without it.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Tho. Beverley.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Millennium.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40234:1" rendition="simple:additions"/>
+            <p>THE CATECHISM OF THE KINGDOM OF OUR <hi>Lord Jeſus Chriſt:</hi> IN THE Thouſand Years.</p>
+            <p>Shewing by Scripture, That the Great Articles of the <hi>Redemption,</hi> the <hi>Reſurrection,</hi> the <hi>Myſtery of the Saints</hi> not <hi>Dy<g ref="char:EOLhyphen"/>ing</hi> but <hi>Chang'd,</hi> the <hi>Judgment,</hi> the <hi>Delivery up of the Kingdom</hi> to <hi>God All in All,</hi> cannot be Ex<g ref="char:EOLhyphen"/>plain'd at Full Dimenſions without it.</p>
+            <q>
+               <bibl>Luke 1. 4.</bibl> That thou mayeſt know the Certainty of the Things wherein Thou haſt been Catechized, or In<g ref="char:EOLhyphen"/>ſtructed.</q>
+            <p>
+               <hi>London,</hi> Printed for the Author, 1690.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:40234:2"/>
+            <pb facs="tcp:40234:2"/>
+            <head>To the <hi>Biſhops</hi> Aſſembled in <hi>Parliament.</hi>
+            </head>
+            <head type="sub">And to the <hi>Evangelical Epiſcopacy,</hi> throughout the <hi>Proteſtant</hi>
+               <note place="margin">Acts 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 28. 1 Pet. 5. 2.</note> 
+               <hi>Churches of Chriſt</hi> in theſe Nations, <hi>Grace, Mercy,</hi> and <hi>Peace,</hi> from <hi>God the Father,</hi> through our <hi>Lord Jeſus Chriſt,</hi> by <hi>the Eternal Spirit.</hi>
+            </head>
+            <p>
+               <hi>I</hi> Have heretofore Repreſented to you the <hi>Majeſty,</hi> and <hi>Kingdom of our Lord Jeſus Chriſt,</hi> that ſhall <hi>Seven Times</hi> hence after the Expiration of the <hi>Apoſtaſie</hi> (now <hi>Ecclipſing</hi> it) be Daily more, and more Viſible; Till it ſhine out in perfect Glory. This I have done according to the <hi>Sure Word</hi> of <hi>Prophecy,</hi> which is of no <hi>private Interpretation,</hi> but being <hi>Scripture,</hi> muſt be ſearch'd even as All other <hi>Scripture,</hi> and ſo be, as All other <hi>Scripture, Pro<g ref="char:EOLhyphen"/>fitable;</hi> and it hath this Excellency above other <hi>Scripture;</hi> That It particularly ſhines, as a <hi>Light</hi> in a <hi>Dark place,</hi> viz. In this Time of <hi>Eclipſe,</hi> or, as the Pole-Star in the Night, that we may know, whereabout we are in Time, and State.</p>
+            <p>Yet becauſe the General Prepoſſeſſion of Men, <hi>Caring for none of theſe Things,</hi> would not have <hi>Prophetic Scripture Search'd;</hi> that I might make <hi>Acceptable</hi> this Great Truth every way; I have now Repreſented it, as It is Carv'd, and Wreath'd into the whole <hi>Analogy of Faith,</hi> the Great <hi>Articles,</hi> and <hi>Principles</hi> of the <hi>Do<g ref="char:EOLhyphen"/>ctrine of Chriſt,</hi> according to the moſt Inſtructive <hi>Scriptures,</hi> viz. the <hi>Redemption,</hi> the <hi>Reſurrection,</hi> the <hi>Eternal Judgment,</hi> the <hi>Saints</hi> not <hi>Dying,</hi> but <hi>Chang'd,</hi> the <hi>Delivery</hi> up of the <hi>Kingdom to God All in All;</hi> which cannot be without the <hi>Kingdom of Chriſt</hi> Explain'd at full Dimenſions.</p>
+            <p>Now I call the Following Treaty hereof, a <hi>Catechiſm,</hi> as an Inti<g ref="char:EOLhyphen"/>mation of the Plain manner of Handling for the benefit of All; and of the neceſſity of Conſideration, and Repeated Application of our Minds to it; and alſo to ſhew; The Kingdom of Chriſt, though it yet lye Hid in its Roots the Fore-nam'd Articles, is ſtill a <hi>Fundamental Truth;</hi> and ſo though <hi>Catechiſm</hi> may ſeem below your Orb, yet This of the <hi>Kingdom of Chriſt,</hi> even as All <hi>Catecheticall</hi> Truths, deſerves the Graveſt and moſt Awful Judgments to Try and Recom<g ref="char:EOLhyphen"/>mend Them.</p>
+            <p>I do Acknowledge my ſelf the unworthieſt of the Servants of Chriſt, in the moſt Abaſed Circumſtances; and lay my ſelf at the Feet of the <hi>Church of Chriſt</hi> with moſt Penitential Confeſſions and Ac<g ref="char:EOLhyphen"/>knowledgments; Yet I muſt be Bold in our God to
+<pb facs="tcp:40234:3"/> ſay, He hath been pleaſed to Reveal to me, of an <hi>Infant Underſtan<g ref="char:EOLhyphen"/>ding</hi> in Compare; and the <hi>Chief of Sinners;</hi> what He hath not ſo fully Reveal'd to the more <hi>Holy</hi> and <hi>Prudent; Even ſo Father, For ſo It ſeemed Good in thy ſight.</hi>
+            </p>
+            <p>I moſt Humbly therefore Beſeech, and do even <hi>Adjure</hi> you by the <hi>Coming of our Lord Jeſus,</hi> and by our <hi>Gathering together to</hi> Him in the <hi>General Aſſembly</hi> of his <hi>Kingdom,</hi> That You would either ſhew by <hi>Scripture; Theſe Things</hi> cannot be <hi>ſo;</hi> or Re<g ref="char:EOLhyphen"/>ceive this <hi>Miniſtery,</hi> as the <hi>Oracles of God,</hi> and Teſtify your Re<g ref="char:EOLhyphen"/>gard to it, that now makes in your Ears the <hi>cry of the Bridegrooms Coming</hi> in <hi>his Kingdom,</hi> That none of us may be among the <hi>Slum<g ref="char:EOLhyphen"/>bring,</hi> though <hi>Wiſe Virgins,</hi> much leſs among the <hi>Fooliſh.</hi>
+            </p>
+            <p>And You, to whom This Addreſs will firſt Come, ought to be the more <hi>Watchful,</hi> becauſe the Worldly Splendor of Your Sphere not ſo well Agrees with the preſent Ecclipſe of <hi>Chriſtian Glory,</hi> with the <hi>Tri<g ref="char:EOLhyphen"/>bulation</hi> and <hi>Patience</hi> of the <hi>Kingdom of Chriſt;</hi> and that <hi>Sack<g ref="char:EOLhyphen"/>cloth,</hi> and <hi>Faſting</hi> ſtate for the <hi>Bride-grooms Abſence;</hi> You ſhould then ſurmount that Diſagreement by more Eminent Services to this <hi>King<g ref="char:EOLhyphen"/>dom,</hi> leaſt There ſhould ſeem Any <hi>Surrogation</hi> in the <hi>Reformation</hi> to the <hi>Feet of Clay;</hi> the <hi>Papacy,</hi> the <hi>Cardinaliſm,</hi> the <hi>Roman Hic<g ref="char:EOLhyphen"/>rarchy;</hi> who as the moſt Diametral oppoſites to the <hi>Kingdom</hi> of Chriſt <hi>Receive</hi> the Firſt Stroke of the <hi>Stone Cut out of the Moun<g ref="char:EOLhyphen"/>tains without Hands;</hi> and ſo You Receive the Diſhonour of any part in their Fall, at leaſt of Lukewarmneſs for that Glory of Chriſt; Or leaſt, as They by a Falſe Glory, as if 'twere the Glory of Chriſt, Glittering in this worldly Glory, Rob the True Light, and are Effaced by that True Light Appearing, or its Epiphany, You ſhould at all ſhare in that Effacement.</p>
+            <p>That we may be therefore All Guided by the <hi>Father of Lights,</hi> with whom is no <hi>Variation,</hi> nor <hi>Shaddow</hi> of <hi>Turning,</hi> to <hi>Try the Spirit</hi> of this Doctrine; and not to Call the <hi>Light</hi> of it <hi>Dark<g ref="char:EOLhyphen"/>neſs;</hi> but to Come perfectly out of the preſent <hi>Ecclips;</hi> to <hi>Go on to Perfection</hi> in the Doctrine of Chriſt is, and ſhall be the moſt zealous Prayer of</p>
+            <closer>
+               <signed>Your moſt Humble moſt Affectionate Servant in the Goſpel of the Kingdom. <hi>Tho. Beverley.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_all_Christians">
+            <pb facs="tcp:40234:3"/>
+            <head>The General PREFACE To all Chriſtians.</head>
+            <p>
+               <hi>I</hi> Know it will be ſaid with Plauſibleneſs againſt this Following <hi>Catechiſm;</hi> We had rather Preach, and Hear of the Plain, Safe, Fundamental Points of <hi>Faith,</hi> and <hi>Repentance,</hi> of the <hi>Reſurrection</hi> of the <hi>Dead,</hi> and of <hi>Eternal Judgment,</hi> in the Ordinary way of Diſcourſe; The <hi>Old Wine we have Taſted is Better;</hi> We will not, as it were, <hi>Ask a Sign,</hi> and <hi>Tempt God</hi> in<note place="margin">Iſay. c. 7.</note> ſeeking to underſtand <hi>Prophecies,</hi> and <hi>Myſteries.</hi>
+            </p>
+            <p>But is <hi>it not enough for you to weary Men,</hi> but will ye <hi>wea<g ref="char:EOLhyphen"/>ry my God alſo,</hi> who hath given you <hi>Prophecy</hi> to ſearch it, and the <hi>Strong meat of Scripture,</hi> and not only the <hi>Milk,</hi> as to <hi>Children unskillfull in the word of Righteouſneſs?</hi> He hath commanded you to <hi>leave</hi> (not by way of Forſaking) the <hi>Word of the Beginning of Chriſt,</hi> but to <hi>Go on to perfection;</hi> not diſhonourably ſtaying in Foundations without a Superſtructure; He hath given you the Example of ſteddy Reſolution herein; <hi>This we</hi>
+               <note place="margin">Heb. c. 5. 11. c. 6. 1.</note> 
+               <hi>will do, if God permit.</hi> He hath in a Figure Repreſented to you the <hi>Primitive Chriſtian Church,</hi> not doing thus, though it was ſo plentiful a <hi>Partaker of</hi> mighty effuſions of<note n="*" place="margin">Wonderful Gifts.</note> 
+               <hi>the Holy Spirit,</hi> had a Liberal Taſte of the <hi>Good word of God;</hi> They <hi>Taſted</hi> of the<note n="*" place="margin">Miracles.</note> 
+               <hi>mighty Powers of</hi> the <hi>World to come,</hi> viz The <hi>Kingdom</hi> of Chriſt; Yet through Reſting in <hi>Principles,</hi> not <hi>Loving Truth,</hi> not <hi>Going on to Perfection,</hi> They Dwindled away, and fell into the <hi>Antichriſtian Apoſtacy,</hi> and came to <hi>Crucify</hi> in that <hi>Spiritual Sodom,</hi> and <hi>Egypt</hi> (even <hi>Rome,</hi> Call'd <hi>Catholick Church</hi> now, where alſo <hi>Our Lord</hi> was <hi>Crucified,</hi> viz. under its Domini<g ref="char:EOLhyphen"/>on) the <hi>Son of God afreſh in</hi> his <hi>Witneſſes,</hi> and have <hi>put him</hi> to an <hi>open Shame;</hi> And through the <hi>Impoſſibility of Repentance,</hi> as ſuch an <hi>Antichriſtian Church,</hi> as we ſee <hi>Rev. 16. 9.</hi> It cannot be <hi>Renewed;</hi> But under all the <hi>Droppings of the Reformation</hi>
+               <pb facs="tcp:40234:4"/> upon it, it is a <hi>Ground</hi> over-grown with <hi>Briars</hi> and <hi>Thorns,</hi> and is very <hi>nigh</hi> now to a <hi>Curſe,</hi> whoſe <hi>End is to be Burn'd,</hi> Rev. 18. But of <hi>Reformed Churches,</hi> and <hi>Chriſtians</hi> we <hi>Hope Better Things,</hi> and <hi>Things,</hi> that have <hi>Hold</hi> of that <hi>Great Salvation</hi> of the <hi>Kingdom,</hi> though <hi>we thus ſpeak;</hi> The <hi>Lord therefore ſhall give you a Sign,</hi> a <hi>Mahar-Schalal-Haſh-Baz,</hi> a <hi>Sign</hi> of his <hi>ma<g ref="char:EOLhyphen"/>king</hi>
+               <note place="margin">Iſay c. 6. c. 9. 9.</note> 
+               <hi>haſte to the Prey.</hi> For as ſoon as the <hi>Child</hi> now <hi>Born</hi> ſhall by a <hi>ſeven years Age know to chuſe the Good,</hi> and <hi>Refuſe the Evil;</hi> That Great <hi>City</hi> ſhall be <hi>Forſaken</hi> of its <hi>Ten Kings,</hi> who have ſo long <hi>given their Kingdom to the Beaſt;</hi> and ſo its <hi>Tenth</hi> ſhall <hi>Fall,</hi> and the <hi>Witneſſes ſhall Riſe;</hi> And this, <hi>as it were, New Song,</hi> ſhall be <hi>Sung,</hi> and the <hi>Everlaſting Goſpel</hi>
+               <note place="margin">Rev. 14. 1.</note> 
+               <hi>Preached,</hi> and we ſhall be as <hi>New Bottles</hi> fill'd with the <hi>New Wine</hi> of the <hi>Kingdom:</hi> And theſe Truths ſhall be no longer call'd Novelties, Whimſies, and Intoxications; nor men ſay any lon<g ref="char:EOLhyphen"/>ger; <hi>We like the Old Wine Better.</hi> For <hi>Chriſtians</hi> ſhall be <hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Purſuers of Truth in Love,</hi> Epheſ. 4. 13. &amp;c. as of <hi>perfect Age, Growing</hi> up to the <hi>Fullneſs of Chriſt;</hi> and <hi>Strong Meat</hi> ſhall belong to them, as <hi>Having Senſes exercis'd to diſcern Good and Evil.</hi> For then the Apoſtacy ſhall go off, and the mighty <hi>Gifts</hi> that were but <hi>Taſted</hi> at firſt as to length of Time, ſhall Reeurn with <hi>Miraculous Powers of the World to come.</hi> Becauſe it ſhall then be drawn near, and it ſhall never End; Now the miſtake is Great, that Theſe <hi>miraculous Powers</hi> ceas'd, becauſe the <hi>Canon of Scripture</hi> was ſufficiently <hi>Seal'd;</hi> The <hi>Myſtery of Iniquity</hi> growing up to the <hi>Apoſtacy</hi> caus'd the Ceſſation; when That Ends, Theſe ſhall Return. Let us therefore in our Earneſteſt <hi>Going on to Perfection, wait upon Chriſt</hi> till be <hi>Riſes</hi> upon this <hi>Glorious mount of Prey,</hi> in the <hi>Succeſſion</hi> of his <hi>Kingdom,</hi> when the <hi>Light of one Day</hi> then, ſhall be as the <hi>Light of ſeven now.</hi> Even the <hi>Sun ſhall be aſham'd, and the Moon Confounded,</hi> when He <hi>Comes</hi> to <hi>Reign</hi> before his <hi>An<g ref="char:EOLhyphen"/>cients Gloriouſly. And now His going forth</hi> is Prepared as <hi>the Morning,</hi> we <hi>ſhall know,</hi> if we <hi>Follow on to know the Lord.</hi> But if Any <hi>will</hi> be <hi>Ignorant,</hi> It muſt be ſo; If Any one Ag<g ref="char:EOLhyphen"/>grieved, <hi>Scripture</hi> is <hi>open,</hi> Let him <hi>Implead</hi> what's Written; I ſtand on the Juſtification by Divine Help.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="1" facs="tcp:40234:4"/>
+            <head>THE CATECHISM OF THE KINGDOM OF OUR <hi>Lord Jeſus Chriſt.</hi>
+            </head>
+            <p>
+               <label>Queſtion.</label> WHere is the Doctrine of the <hi>Kingdom</hi> of <hi>Jeſus Christ</hi> to be found?</p>
+            <p>
+               <label>Anſ.</label> It is eſpecially to be found in the opening of <hi>Prophetical Scripture,</hi> being the <hi>Myſtery ſpoken</hi> of by all the <hi>Prophets. Revel.</hi> 10. 7. <hi>Acts</hi> 3. 21.</p>
+            <p>
+               <label>Queſt.</label> What is the Rule of the True Explication of <hi>Pro<g ref="char:EOLhyphen"/>phecy.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> That of the <hi>Apoſtle;</hi> He that <hi>Propheſies,</hi> let Him <hi>Pro<g ref="char:EOLhyphen"/>phecy according to the Analogy</hi> or proportion of <hi>Faith. Rom.</hi> 12. 6.</p>
+            <p>
+               <label>Queſt.</label> What is the <hi>Analogy,</hi> or proportion of <hi>Faith.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> It is the <hi>Form of ſound words</hi> according to the whole <hi>Scripture,</hi> which is a Table ſo exactly ſquare, nothing can without plain Injury be Added to it, or Taken from it.</p>
+            <p>
+               <label>Queſt.</label> Is the <hi>Kingdom of Chriſt</hi> to be thus explain'd?</p>
+            <p>
+               <label>Anſ.</label> I Truſt, we ſhall Find it ſo by <hi>Searching</hi> All <hi>Scripture</hi> with <hi>Noble Minds,</hi> whether thoſe Things are ſo or not; and thereby giving heed to that moſt <hi>Sure word of Prophecy,</hi> that we ſhall <hi>do well to take heed</hi> to, as to a Light that ſhineth to us in a dark place; So we ſhall Find it no <hi>Cunningly deviſed Fable, Acts</hi> 17. 11. 2 <hi>Pet.</hi> 1. 16. 19.</p>
+            <p>
+               <label>Queſt.</label> What then is to be underſtood by the <hi>Kingdom of Jeſus Christ?</hi>
+            </p>
+            <pb n="2" facs="tcp:40234:5"/>
+            <p>
+               <label>A.</label> The <hi>Kingdom of Jeſus Christ</hi> is the Glorious, and Viſi<g ref="char:EOLhyphen"/>ble <hi>Appearance</hi> of Chriſt Himſelf with all <hi>Saints,</hi> who have <hi>died in Him,</hi> and whom He <hi>will bring with Him;</hi> who ſhall dwell with Him in the <hi>New Heaven,</hi> he hath promis'd in the Region of the <hi>Air</hi> above; And for the Full Glory of this Kingdom, There ſhall be a <hi>Generation</hi> of <hi>Saints</hi> in the <hi>New Earth</hi> below; who are the <hi>Living,</hi> the <hi>Remaining;</hi> Both ſorts Reſcued from the common <hi>Fire</hi> for the <hi>Perdition of ungodly Men.</hi> 1 <hi>Theſſ.</hi> 4. 13. to the end, 2 <hi>Pet.</hi> 2. 9. <hi>c.</hi> 3. 7. 13.</p>
+            <p>
+               <label>Q.</label> Is it not enough, that there be a <hi>Day of Judgment,</hi> and a State of Glory, and Happineſs to <hi>Christ,</hi> and his <hi>Saints</hi> in the <hi>Higheſt Heaven,</hi> and of puniſhment to the wicked in the <hi>Loweſt Hell?</hi>
+            </p>
+            <p>
+               <label>A.</label> God hath in his word declar'd to us, That is not enough; but There ſhall be upon Greateſt Reaſons given us therein, a <hi>New Heaven,</hi> and a <hi>New Earth,</hi> and a State of <hi>Saints</hi> in both, and of the <hi>Enemies</hi> of Chriſt being made his <hi>Footſtool;</hi> that there may be a moſt viſible Appearance of the Glory of the one, and of the <hi>Contemptible,</hi> diſhonourable and condemned State of the other. 2 <hi>Theſſ.</hi> 1. 5. to <hi>v.</hi> 11. with <hi>Dan.</hi> 12. 1. 2 <hi>Rev.</hi> 19. 14. 15. to the end. <hi>c.</hi> 20. 4. 6.</p>
+            <p>
+               <label>Q.</label> What ſhall be the Higheſt Spirit, and Conſtitution of this State?</p>
+            <p>
+               <label>A.</label> It is an <hi>Oeconomy,</hi> or diſpenſation, wherein there is a moſt exalted State of Holineſs and Purity, in the enjoyment of God, and of Jeſus in his <hi>Redemption, Rev.</hi> 5. 9. and <hi>c.</hi> 4. 5. of the <hi>Communion of his Spirit;</hi> Free from Senſuality, and Im<g ref="char:EOLhyphen"/>purity, and in perfect Happineſs, and Security from all <hi>Toil, Grief, Pain, Death,</hi> and <hi>Curſe;</hi> ſo that all the <hi>Saints</hi> are <hi>Prieſts</hi> of <hi>God,</hi> and of <hi>Christ,</hi> and <hi>Reign</hi> with Him, <hi>Rev.</hi> 20. 6. c. 21. c. 22. <hi>v.</hi> 1. to <hi>v.</hi> 7.</p>
+            <p>
+               <label>Q.</label> What do you mean by an <hi>Oeconomy,</hi> or <hi>Diſpenſation?</hi>
+            </p>
+            <p>
+               <label>A.</label> It is the free diſpoſe of Things, after the <hi>Counſel of Gods own Will,</hi> for the Manifeſtation of his <hi>Wiſdom</hi> to <hi>Angels,</hi> and <hi>Men</hi> in this, or that way, as the Maſter of the Great <hi>Family</hi> of All Things. <hi>Epheſ.</hi> 3. 9. 10.</p>
+            <p>
+               <label>Q.</label> But hath not this doctrine been generally charg'd with Carnality, and ſenſual Inclination?</p>
+            <p>
+               <label>A.</label> This hath been the Art of <hi>Sathan,</hi> and of <hi>Antichrist,</hi> to Bring out of Repute ſo Great a Doctrine of Chriſt, that It is peculiarly call'd the <hi>Everlaſting Goſpel;</hi> that the <hi>Antichriſtian
+<pb n="3" facs="tcp:40234:5"/> Kingdom</hi> of this World, as a <hi>Dead Child</hi> might be put in its place.</p>
+            <p>
+               <label>Q.</label> What then is the State of the <hi>Saints dead in Chriſt,</hi> whom He <hi>Brings with Him,</hi> and who ſhall be in the <hi>New Heaven?</hi>
+            </p>
+            <p>
+               <label>A.</label> They, who are <hi>Accounted worthy</hi> to <hi>obtain that World,</hi> and the <hi>Reſurrection from the Dead,</hi> neither <hi>Marry,</hi> nor are <hi>Gi<g ref="char:EOLhyphen"/>ven</hi>
+               <note place="margin">Luke 20. 35. 36. Rom. 8. 23. 1 Cor. 5. 3.</note> 
+               <hi>in Marriage;</hi> Neither <hi>can</hi> They <hi>Dye any more,</hi> being the <hi>Children of God,</hi> and of the <hi>Reſurrection;</hi> and The <hi>Adoption.</hi> But They <hi>Sit on Thrones,</hi> and <hi>Judge Angels,</hi> and the <hi>World</hi> with Chriſt; and <hi>Reign with Him a Thouſand Years,</hi> not upon, but <hi>over the Earth;</hi> They <hi>ſee the Face of God,</hi> and <hi>of the Lamb,</hi> and<note place="margin">Rev. c. 20. c. 21. c. 22.</note> his <hi>Throne</hi> is in the <hi>midſt of Them,</hi> as <hi>His Servants They ſerve Him,</hi> and his <hi>Name is in their Foreheads;</hi> He is their <hi>Light,</hi> and their <hi>Temple;</hi> They <hi>Eat of the Tree of Life,</hi> and <hi>Drink of the Wa<g ref="char:EOLhyphen"/>ter of Life;</hi> and <hi>over Them the ſecond death can have no power.</hi>
+            </p>
+            <p>
+               <label>Q.</label> But it ſeems, They only, who have been <hi>Martyrs;</hi> and eſpecially; They who would not <hi>Receive the mark,</hi> and <hi>Name</hi> of that <hi>Antichriſtian, Idolatrous</hi> Power, which the <hi>Revelation</hi> calls the <hi>Beast,</hi> are They, who thus Riſe, and enjoy that State a <hi>Thouſand Years. Rev.</hi> 20. 4.</p>
+            <p>
+               <label>A.</label> They are indeed the principal there nam'd, to Anſwer the Table, or Repreſentation of Things in that <hi>Prophecy</hi> of the <hi>Revelation;</hi> But it is ſubjoyn'd immediately, <hi>v.</hi> 6. <hi>Bleſ<g ref="char:EOLhyphen"/>ſed</hi> and <hi>Holy is He,</hi> that <hi>hath part in the first Reſurrection,</hi> though they are not the principals <hi>Beheaded for Chriſt;</hi> And the <hi>Apo<g ref="char:EOLhyphen"/>ſtle Paul</hi> aſſures us, <hi>All who have died in Christ,</hi> will <hi>God bring with Him;</hi> That none ſhould <hi>Mourn without hope for Dead Friends,</hi> as if They ſhould looſe that Glory; For none of the <hi>Saints</hi> can be perfected the one without the other; The <hi>Living Saints</hi> cannot <hi>prevent the Dead,</hi> and the <hi>Wee</hi> of the <hi>Living Saints</hi> are Joyn'd in that Glory with the <hi>Dead Rais'd. 1 Theſſ.</hi> 4. 15. and <hi>Heb.</hi> 11. laſt. Call'd, we All as making up the whole.</p>
+            <p>
+               <label>Q.</label> What then ſhall be the State of the <hi>Saints Living,</hi> and <hi>Remaining</hi> at the <hi>Coming of the Lord?</hi>
+            </p>
+            <p>
+               <label>A.</label> They alſo are, as was ſaid, <hi>Partakers of the First Reſurre<g ref="char:EOLhyphen"/>ction,</hi> ſo that the <hi>Second Death ſhall have no Power over Them;</hi> For the <hi>Bleſſed,</hi> and the <hi>Holy</hi> is only <hi>He,</hi> who is ſo <hi>Partaker.</hi> And it is expreſly ſaid; Theſe ſhall not <hi>dye,</hi> but be <hi>Changed,</hi> and caught up to <hi>meet the Lord in the Clouds,</hi> and be <hi>for ever with the Lord;</hi> So they cannot fall into the <hi>Lake of the Second Death;</hi> The <hi>Leaves of the Tree of Life are therefore for the Healing
+<pb n="4" facs="tcp:40234:6"/> theſe ſaved of the Nations;</hi> And the <hi>River of Life</hi> from the <hi>Throne</hi> runs down to them; and the <hi>Trees of Life are for their Food,</hi> and <hi>Medicine,</hi> and the <hi>Healing Waters</hi> from the <hi>Sanctuary;</hi> ſo that <hi>whatever doth Live ſhall Live. Rev. 22. 2. Ezek.</hi> 47. 11. They ſhall be as <hi>Adam,</hi> had he continued in <hi>Paradiſe,</hi> ſerved with the whole Variety of the <hi>Creation</hi> for Uſe, and Delight; with<g ref="char:EOLhyphen"/>out Luſt, or Senſuality; without Labour, Sorrow, Curſe or Death, till They are ſo <hi>changed;</hi> and they ſhall propagate a <hi>Holy Seed, Pſal.</hi> 110. 3. in ſuch abundance, as to recompence with a much more to the Glory of the <hi>Second Adam (Rom. 5. 12. to the end)</hi> for the few that are <hi>ſaved</hi> within the World of the <hi>Firſt Adam.</hi>
+            </p>
+            <p>
+               <label>Q.</label> What Entercourſe ſhall there be betwixt the Saints of the <hi>New Heaven</hi> above, and the Saints of the <hi>New Earth</hi> be<g ref="char:EOLhyphen"/>neath?</p>
+            <p>
+               <label>A.</label> Such as betwixt the Lights of Heaven, and the Firma<g ref="char:EOLhyphen"/>ment, and our Selves now on Earth; For the <hi>Nations of the Saved ſhall walk in the Light of the New Jeruſalem</hi> above, <hi>ſhining</hi> as the <hi>Sun</hi> and <hi>Stars</hi> down to them; And as All Glory on Earth is refer'd to the <hi>Light of the Sun</hi> and the Heaven over us; So the <hi>Saints,</hi> the <hi>Kings on Earth</hi> ſhall <hi>bring their Glory to the New Jeruſalem</hi> above; eſpecially, They ſhall <hi>give their Glory,</hi> and <hi>walk in the Light</hi> and Enjoyment of <hi>God and of Chriſt.</hi> And <hi>Angels</hi> and <hi>Saints</hi> above, <hi>Angels Equalls</hi> ſhall <hi>Aſcend</hi> and <hi>Deſcend</hi> on that <hi>Jacobs Ladder,</hi> whoſe Foot being on <hi>Earth,</hi> its <hi>Top reach<g ref="char:EOLhyphen"/>ed to Heaven,</hi> and <hi>God</hi> and the <hi>Lamb</hi> are on the <hi>Top of it;</hi> and by <hi>Ezekiel's ſteps enlarging,</hi> and <hi>winding ſtill upward,</hi> ſhall All be<g ref="char:EOLhyphen"/>low <hi>Aſcend</hi> upward, <hi>Gen.</hi> 28. 12, 13. <hi>Ezeck.</hi> 41. 7.</p>
+            <p>
+               <label>Q.</label> Give yet a fuller Account of the State of the wicked in this <hi>Kingdom of Chriſt.</hi>
+            </p>
+            <p>
+               <label>A.</label> The Scripture is not ſo full, nor ſo clear in ſetting out the State of the Wicked under this <hi>Kingdom;</hi> yet ſo that It is moſt certain, that They who have lived before it, are rais'd to Illuſtrate the Glory of it; and to bear the <hi>Shame,</hi> and <hi>Diſho<g ref="char:EOLhyphen"/>nour</hi> of their wickedneſs under the Juſt and Righteous Con<g ref="char:EOLhyphen"/>demnation of Chriſt; call'd a being <hi>ſlain</hi> with the <hi>Sword of his Mouth; Shame</hi> and <hi>Contempt</hi> ſhall be pour'd upon Them, as a Juſt Recompence of all the Scorn, They have caſt upon Chriſt, his ways, and Servants; and They ſhall be ſeen in a State of Puniſhment, Deſtruction, and Death; under a ſharp ſenſe of it in Themſelves, and ſo that They ſhall be <hi>ſeen,</hi> as <hi>Carcaſſes,</hi>
+               <pb n="5" facs="tcp:40234:6"/> whoſe <hi>Worm dyes not,</hi> and their <hi>Fire</hi> is not <hi>quenched,</hi> ſo that They are an <hi>Abhoring of all Fleſh.</hi> And this is a Juſt, and Righ<g ref="char:EOLhyphen"/>teous Recompence of all the Cruelties, They have exerciſed upon the Servants of God, and their Diſobedience to God, and to Chriſt, and their ſo obſtinate prefering the preſent World, before, and above the World to Come. Laſtly, in what ever State Any of them can be ſuppos'd to be, They are certainly ſo under Chriſt and his Saints, That They are <hi>made his Foot-ſtool. Dan.</hi> 12. 2. <hi>John</hi> 5. 29. <hi>Eſay</hi> 66. <hi>ult.</hi> 2 <hi>Theſ.</hi> 1. 9. <hi>Pſal.</hi> 110. 1.</p>
+            <p>
+               <label>Q.</label> When does the <hi>Kingdom of Chriſt begin?</hi>
+            </p>
+            <p>
+               <label>A.</label> It begins at the <hi>Coming,</hi> and <hi>Appearance</hi> of Chriſt, and at the <hi>Reſurrection</hi> of his Saints at that his <hi>Coming,</hi> and <hi>Appear<g ref="char:EOLhyphen"/>ance;</hi> a <hi>Reſurrection</hi> to <hi>Life, Honour,</hi> and <hi>Immortality,</hi> and to a viſible Glorious <hi>Appearance</hi> with Chriſt, and <hi>Reigning with Him.</hi>
+            </p>
+            <p>
+               <label>Q.</label> Is there not a <hi>Reſurrection</hi> of the <hi>Wicked</hi> at the ſame Tme? And if ſo, How then does their <hi>Reſurrection</hi> ſtand in Relation to the Happy <hi>Reſurrection?</hi>
+            </p>
+            <p>
+               <label>A.</label> There is their <hi>Reſurrection,</hi> as was laſt declared; but be<g ref="char:EOLhyphen"/>cauſe It is a <hi>Reſurrection to Puniſhment,</hi> and <hi>Diſhonour;</hi> It is called <hi>Death;</hi> and They are called the <hi>dead,</hi> though i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <hi>viſible Appearance;</hi> The Scripture therefore but ſeldom names the <hi>Reſurrection</hi> of the <hi>wicked,</hi> as a <hi>Reſurrection;</hi> and when it ſpeaks of the <hi>Reſurrection</hi> at any Time abſolutely, It means the Happy, and bleſſed <hi>Reſurrection,</hi> as <hi>Luc. 20. 35, 36. 1 Cor.</hi> 15. throughout. <hi>Rev.</hi> 20. 4. 6. And therefore there can be no other Reſpect had to them in the <hi>Kingdom</hi> of Chriſt, and the <hi>Reſur<g ref="char:EOLhyphen"/>rection</hi> proper to it, but as They add to the Triumph of the <hi>Kingdom,</hi> and are in a State of Deprivation of its Glory.</p>
+            <p>
+               <label>Q.</label> What proof can you give of the <hi>Kingdom of Chriſt</hi> at his <hi>Coming</hi> and <hi>Appearance?</hi>
+            </p>
+            <p>
+               <label>A.</label> The whole Stream of the <hi>New Teſtament</hi> Joyns his <hi>Co<g ref="char:EOLhyphen"/>ming,</hi> and his <hi>Appearance,</hi> and his <hi>Kingdom</hi> One with Another. The <hi>Son of Man coming in his Kingdom,</hi> Mat. 16. laſt. <hi>When the Son of Man ſhall come in his Glory,</hi> and <hi>All the Holy An<g ref="char:EOLhyphen"/>gels with him; Then ſhall He ſit on the Throne of his Glory,</hi> Mat. 25. 31. <hi>Remember me when Thou Comeſt in,</hi> (not into) <hi>thy King<g ref="char:EOLhyphen"/>dom,</hi> Luk. 23. 42. <hi>Becauſe They thought the Kingdom of God ſhould immediately Appear,</hi> He <hi>ſpake a Parable unto Them</hi> of a <hi>No<g ref="char:EOLhyphen"/>bleman, going into a Far Country to Receive a Kingdom,</hi> and <hi>to Re<g ref="char:EOLhyphen"/>turn;</hi> and Having <hi>Receiv'd a Kingdom,</hi> He <hi>Return'd</hi> in it, <hi>Luke</hi>
+               <pb n="6" facs="tcp:40234:7"/> 19. 13, 15. <hi>When we made known unto You the Power and Coming of Chriſt,</hi> and were <hi>Eye Witneſſes of his Majeſty;</hi> (to wit) in the <hi>Transfiguration,</hi> that Great Fore-Appearance of his <hi>Kingdom. Behold, He</hi> who is the <hi>Prince</hi> of the <hi>Kings of the Earth</hi> cometh in the <hi>Clouds,</hi> and <hi>Every Eye ſhall ſee Him,</hi> Revel. 1.5.7. And his <hi>Appearance,</hi> and his <hi>Kingdom</hi> are Joyn'd, 2 <hi>Tim. 4. 1. He ſhall Judge the Quick,</hi> and the <hi>Dead</hi> at his <hi>Kingdom,</hi> and at his <hi>Ap<g ref="char:EOLhyphen"/>pearance.</hi>
+            </p>
+            <p>
+               <label>Q.</label> Give a proof of the <hi>Kingdom</hi> at his <hi>Reſurrection?</hi>
+            </p>
+            <p>
+               <label>A.</label> The Apoſtle plainly declares it; For he ſays, Every one ſhall <hi>Riſe in his own Order;</hi> Chriſt the <hi>Firſt Fruits,</hi> and <hi>They, which are Chriſts at his Coming:</hi> And without Any other Menti<g ref="char:EOLhyphen"/>on of his <hi>Kingdom,</hi> He ſays, He muſt <hi>Reign,</hi> till he hath <hi>put All his Enemies under his Feet:</hi> Now when did this <hi>Reigning Be<g ref="char:EOLhyphen"/>gin,</hi> but at his <hi>Coming?</hi> Or where did the Apoſtle Give any Intimation of his <hi>Reigning,</hi> but at his <hi>Coming</hi> according to all the Fore-mentioned <hi>Scriptures?</hi> And when He <hi>Comes</hi> and <hi>Deſcends,</hi> and no Longer <hi>Sits</hi> at the <hi>Right Hand of God,</hi> Then God firſt makes his Enemies his <hi>Footſtool,</hi> not when he <hi>Sits,</hi> but when He <hi>Comes,</hi> and then He Begins to <hi>Reign;</hi> and He <hi>Reigns</hi> Till all his <hi>Enemies</hi> are his <hi>Footſtool.</hi> And when He <hi>Deſcends,</hi> and <hi>Comes,</hi> and <hi>Reigns,</hi> The <hi>Dead in Chriſt Riſe.</hi> and then He <hi>Brings</hi> Them <hi>with Him;</hi> His <hi>Kingdom,</hi> and the <hi>Re<g ref="char:EOLhyphen"/>ſurrection</hi> of his <hi>Saints</hi> Begin together.</p>
+            <p>
+               <label>Q.</label> What Place then hath the <hi>Day of Judgment?</hi>
+            </p>
+            <p>
+               <label>A.</label> The <hi>Day of Judgment</hi> is the ſame with the <hi>Kingdom of Chriſt,</hi> and with the <hi>Reſurrection,</hi> All Begin, Continue, and End Together with this Difference: The <hi>Judiciary Sentence</hi> is at the Beginning, <hi>Rev.</hi> 19 laſt. and at the End, <hi>c.</hi> 20. 13. 14. 15. and between, a Righteous and Holy <hi>Government;</hi> which <hi>Government</hi> the <hi>Scripture</hi> often calls <hi>Judgment,</hi> Pſal. 72. 4. And All Men, whether They Riſe to <hi>Life</hi> or to <hi>Condem<g ref="char:EOLhyphen"/>nation,</hi> are before, and as it were about the <hi>Tribunal,</hi> or <hi>Judg<g ref="char:EOLhyphen"/>ment Seat,</hi> which is alſo the <hi>Throne of Chriſt,</hi> and Receiving ac<g ref="char:EOLhyphen"/>cording to what <hi>They have done in the Body,</hi> whether it be Good or Evil, during the whole ſpace of the <hi>Reſurrection, Kingdom,</hi> and <hi>Judgment</hi> of Chriſt, 2 <hi>Cor.</hi> 5. 10.</p>
+            <p>
+               <label>Q.</label> How long then does the <hi>Kingdom of Chriſt,</hi> the <hi>Appea<g ref="char:EOLhyphen"/>rance</hi> in the <hi>Reſurrection,</hi> and the <hi>Day of Judgment</hi> laſt?</p>
+            <p>
+               <label>A.</label> The Grand, and the moſt Definitive Time, in which Chriſt ſhall <hi>Reign with his Saints,</hi> is, while <hi>Sathan is Bound,</hi> and
+<pb n="7" facs="tcp:40234:7" rendition="simple:additions"/> That is a <hi>Thouſand Years;</hi> And the <hi>Apoſtle Peter</hi> having named the <hi>Day of Judgment,</hi> Immediately, as it were Adjures Chriſti<g ref="char:EOLhyphen"/>ans, not to be <hi>Ignorant,</hi> that <hi>One day</hi> (as if He ſhould ſay, That <hi>One Day of Judgment</hi>) is with the <hi>Lord</hi> as a <hi>Thouſand Years;</hi> and the ſeveral, <hi>viz. Six Thouſand Years</hi> before it, but as each, one day; ſo making that <hi>Day of Judgment</hi> a <hi>Sabbatical Day,</hi> or <hi>Sab<g ref="char:EOLhyphen"/>batiſm. Rev. 20. v.</hi> 2. to 8. 2 <hi>Pet.</hi> 3. 8.</p>
+            <p>
+               <label>Q.</label> But ſeeing, as hath been ſaid; The <hi>Living Remaining Saints</hi> have a State in this <hi>Kingdam of Chriſt</hi> in the <hi>New Earth,</hi> even as the <hi>Saints dead in Christ,</hi> have in the <hi>New Heavens;</hi> How can ſo long a ſpace, as of the <hi>Thouſand Years</hi> conſiſt with the <hi>Apoſtles</hi> Doctrine, 1 <hi>Cor.</hi> 15. 52. that ſpeaks, as of a cloſe Connexion betwixt the <hi>Dead being Rais'd,</hi> and the <hi>Wee</hi> of the <hi>Saints</hi> being <hi>Chang'd.</hi> For ſaith He, <hi>Behold, I ſhew you a My<g ref="char:EOLhyphen"/>ſtery, We ſhall not All dye,</hi> but <hi>we ſhall All be chang'd in a moment,</hi> in <hi>the Twinckling of an Eye at the laſt Trumpet, (For the Trumpet ſhall ſound)</hi> and the <hi>Dead ſhall be Rais'd Incorruptible,</hi> and <hi>we ſhall be chang'd.</hi> All as it were in one moment?</p>
+            <p>
+               <label>A.</label> The <hi>Apoſtle</hi> ſhews the ſuddenneſs, and Immediate effect of the Power of <hi>Chriſt</hi> in both <hi>Raiſing the Dead,</hi> and <hi>Changing the Living;</hi> but the ſo cloſe Connexion betwixt the <hi>Raiſing</hi> and the <hi>Changing</hi> does not thence Follow: For within the Time of <hi>John's Seventh,</hi> and laſt <hi>Trumpet,</hi> when the <hi>Kingdom of Chriſt</hi> Begins its Succeſſion, and which contains all from that <hi>King<g ref="char:EOLhyphen"/>dom of Christ</hi> ſo beginning, and its being <hi>Deliver'd up;</hi> The <hi>Dead ſhall be Rais'd,</hi> and the <hi>Living chang'd,</hi> but at ſeveral di<g ref="char:EOLhyphen"/>ſtances of Time; Forthe <hi>Apoſtle</hi> ſays, the <hi>Dead</hi> in the Third perſon ſhall be <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>'d. To ſhew, the <hi>Wee of Saints</hi> of the firſt perſon are of a different State, and order of Time in being <hi>Chang'd</hi> from the <hi>Dead in Chriſt,</hi> that ſhall be <hi>Rais'd.</hi>
+            </p>
+            <p>
+               <label>Q.</label> But it does not ſeem, that this change of perſons can bear the weight of ſo Great a point of doctrine?</p>
+            <p>
+               <label>A.</label> I allow it, if there were not that Great Conſenting <hi>Scripture, 1 Theſſ.</hi> 4. 17. where the <hi>Apoſtle</hi> puts the ſame <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or afterwards, betwixt the <hi>Saints dead in Christ,</hi> at the <hi>Coming of Chriſt Riſing first;</hi> and the <hi>Living Chang'd,</hi> or which is the ſame, <hi>Caught up;</hi> that He had put betwixt the <hi>Reſurrection of Christ,</hi> and his <hi>Saints Riſing</hi> at his <hi>Coming;</hi> which hath made as great a diſtance, as 1700 <hi>Years</hi> already; For ſaith the <hi>Apoſtle,</hi> the <hi>Lord Himſelf ſhall deſcend with a ſhout,</hi> with the <hi>Voice of the Arch Angel,</hi> with the <hi>Trumpet of God,</hi> and the <hi>Dead in
+<pb n="8" facs="tcp:40234:8"/> Chriſt ſhall Riſe Firſt; Then we which are Alive,</hi> and <hi>Remain, ſhall be caught up, viz.</hi> without <hi>Dying;</hi> Now the word which is here Tranſlated, [Then] was, 1 <hi>Cor.</hi> 15. 27. Tranſlated [Afterward] and may therefore very well allow the diſtance of above a 1000 <hi>Years</hi> in one, as in the other; which diſtance the <hi>Tranſlators</hi> knowing betwixt Chriſt's <hi>Reſurrection,</hi> and of his <hi>Saints</hi> at his <hi>Coming,</hi> Tranſlated [Afterwards] a word of diſtance in our <hi>Engliſh;</hi> But not underſtanding ſo well that diſtance betwixt the <hi>Raiſing,</hi> and <hi>Changing the Saints,</hi> they ren<g ref="char:EOLhyphen"/>der the ſame word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 1 <hi>Theſſ.</hi> 4. 17. [Then] which ſignifies often with us the ſame moment; but this <hi>varies not the Truth of Things, and of Scripture.</hi>
+            </p>
+            <p>
+               <label>Q.</label> How is the State of the <hi>Kingdom of Christ</hi> bounded at the Period or End of it?</p>
+            <p>
+               <label>A.</label> By the <hi>Saints Living,</hi> and <hi>Remaining</hi> being <hi>Caught up to Christ</hi> in the <hi>Air,</hi> by the <hi>Subduing the laſt Enemy Death,</hi> and by the <hi>Delivering up the Kingdom to God All in All;</hi> So that the <hi>Co<g ref="char:EOLhyphen"/>ming of Christ</hi> and his Appearance in and at his <hi>Kingdom,</hi> the <hi>Dead in Chriſt Riſing,</hi> His <hi>Saints,</hi> the <hi>Wee left Living,</hi> and the <hi>Ju<g ref="char:EOLhyphen"/>diciary ſentence</hi> on his <hi>Enemies to be his Footſtool</hi> at the beginning; and theſe Great Pillars at the end bound at each Point this Greateſt <hi>Oeconomy</hi> of the <hi>Fulneſs of Times;</hi> and not only diſtin<g ref="char:EOLhyphen"/>guiſh, but exalt it far above all other Time; And herewith Admirably Agrees the whole State of Things in the <hi>laſt Trum<g ref="char:EOLhyphen"/>pet</hi> of the <hi>Prophecy</hi> of the <hi>Revelation,</hi> wherein we have ſeveral Expreſſions of the <hi>Kingdom of Christ,</hi> or his <hi>Taking to Him his Great Power,</hi> and <hi>Reigning:</hi> The <hi>Heavens open to Him</hi> with his <hi>many Crowns,</hi> and the <hi>Title</hi> or <hi>Name on his Veſture,</hi> and on his <hi>Thigh, King of Kings, Lord of Lords;</hi> His <hi>Reigning,</hi> and his <hi>Throne</hi> in the <hi>New Jeruſalem;</hi> The <hi>Time of the Dead being Judg'd,</hi> and <hi>Rewards</hi> Given to <hi>All that Fear'd his Name, Great,</hi> and <hi>Small,</hi> and the <hi>deſtroying them that deſtroy'd the Earth;</hi> A voice <hi>Commands to write</hi> the <hi>Bleſſedneſs</hi> of All the <hi>Dead</hi> in the <hi>Lord,</hi> and their <hi>Sabbatiſm; Yea, from henceforth or Immediately; Christ with a Crown,</hi> and on a <hi>White Cloud,</hi> Giving down it, Dew, as the <hi>Dew of Herbs,</hi> that the <hi>Earth may diſcloſe its dead, &amp;c.</hi> and <hi>Reaps his Wheat</hi> with his own Hand, and gathers by his <hi>Angels</hi> the <hi>cluſters of the Wicked, to caſt Them into the Wine-preſs of the Wrath of God;</hi> which He <hi>coming in his Kingdom Treads;</hi> and <hi>Slays,</hi> or <hi>Condemns with the word of his Mouth</hi> All the wicked, <hi>Small</hi> and <hi>Great; Chains,</hi> and <hi>Seals</hi> up <hi>Sathan</hi> into the
+<pb n="9" facs="tcp:40234:8"/> 
+               <hi>Bottomleſs-pit,</hi> the <hi>making</hi> all his <hi>Enemies</hi> his <hi>Footſtool;</hi> while at the ſame Time there are the <hi>Nations of Them that are ſaved, viz.</hi> of the <hi>Living Remaining;</hi> And this <hi>Kingdom</hi> laſts, till the <hi>Living Remaining</hi> are <hi>caught up to ſit with Christ</hi> on his <hi>Throne;</hi> as he <hi>ſate Down</hi> on His <hi>Fathers Throne;</hi> and the <hi>Devil,</hi> the <hi>Dead, Death,</hi> and <hi>Hell</hi> are <hi>Caſt into the Lake</hi> of the <hi>Second Death;</hi> which is the <hi>Subduing</hi> the <hi>Laſt Enemy, Death;</hi> at which <hi>Hea<g ref="char:EOLhyphen"/>ven</hi> and <hi>Earth flie away</hi> from that <hi>white Throne</hi> of Pure and Liquid Eternity, and the <hi>Kingdom Delivered up to God All in All,</hi> Eſay 26. 19. Mat. 13. 30. Rev. 11. 15. <hi>&amp;c. c.</hi> 14. 13. to the End, <hi>c. 19. c.</hi> 20. all along. All which are Admirable Correſpondencies with all the Former <hi>Scriptures,</hi> and their High Importance already given. And Thus the <hi>Kingdom of Chriſt</hi> is from the <hi>Firſt Reſurrection,</hi> the <hi>Firſt,</hi> becauſe at the Beginning of the <hi>Kingdom of Chriſt;</hi> and the <hi>Second Death</hi> the <hi>Second,</hi> becauſe at the End of the <hi>Kingdom of Chriſt:</hi> For the <hi>Firſt Reſurrection</hi> hath properly no Second, but is All One <hi>Re<g ref="char:EOLhyphen"/>ſurrection,</hi> from the Firſt <hi>Riſing</hi> of <hi>the Dead in Chriſt</hi> to the <hi>Living Remaining Saints caught</hi> into the <hi>Partakerſhip</hi> of it; And the <hi>Second Death</hi> hath no <hi>Firſt,</hi> but is All one <hi>Death,</hi> from the <hi>Having no Part in the Firſt Reſurrection,</hi> in the <hi>Holy City,</hi> and no <hi>Right</hi> to the <hi>Tree of Life,</hi> to the <hi>Caſting into the Lake</hi> of the <hi>Se<g ref="char:EOLhyphen"/>cond Death:</hi> So the <hi>Firſt Reſurrection,</hi> and <hi>Second Death</hi> are on<g ref="char:EOLhyphen"/>ly Oppos'd, As <hi>Firſt,</hi> and <hi>Second.</hi>
+            </p>
+            <p>
+               <label>Q.</label> Is there Any other <hi>Scripture</hi> Repreſentation of this State of the <hi>Kingdom</hi> of <hi>Chriſt,</hi> that may Evidence it to be ſuch a peculiar Diſpenſation, that hath never yet been, and that ſhall be yet, before the <hi>Giving up the Kingdom to God All in All?</hi>
+            </p>
+            <p>
+               <label>A.</label> There is that Great One; The Time of the <hi>Reſtitu<g ref="char:EOLhyphen"/>tion</hi> of All Things, <hi>viz.</hi> Of the whole <hi>Creation Deliver'd from the Bondage of Corruption into the Glorious Liberty of the Chil<g ref="char:EOLhyphen"/>dren</hi> of God, Rom. 8. 21. which is at the ſame Time with the <hi>Re-Livening</hi> (which we Tranſlate Acts 3. 19. <hi>Times of Refreſhing) the Dead in Chriſt;</hi> or as the Apoſtle <hi>John, Rev.</hi> 20. 4. calls it, the <hi>Souls Living,</hi> And This muſt be what never hath yet been; For it muſt be, when Jeſus before Preached, and whom the <hi>Heavens</hi> muſt <hi>Receive,</hi> till He be <hi>Sent; Come;</hi> which we All Acknowledge hath not been yet; and yet muſt be before the <hi>Kingdom Deliver'd</hi> up: For then the <hi>Reſtitution</hi> ſhall be <hi>Deliver'd</hi> up alſo. There is alſo the <hi>New Jeruſalem,</hi> which ac<g ref="char:EOLhyphen"/>cording to the Compare of <hi>Ezekiel</hi> in the <hi>Iſraelitiſh</hi> Deſcripti<g ref="char:EOLhyphen"/>on
+<pb n="10" facs="tcp:40234:9"/> of Things proper to the <hi>Old Teſtament,</hi> and <hi>Johns,</hi> proper to the <hi>New Teſtament,</hi> Aſſure, There muſt be ſuch a State of Things, as never hath yet been; And in Regard of a Higher State, where the <hi>Throne of God</hi> and the <hi>Lamb</hi> are; and Thoſe who Immediately, as being in their preſence, <hi>Eat of</hi> the <hi>Tree</hi> of <hi>Life,</hi> and drink of the <hi>Water of Life;</hi> and in Regard of the <hi>Nations Saved,</hi> and <hi>Healed;</hi> muſt be a State above, and below; and ſo before the <hi>Kingdom Deliver'd up to God</hi> and the <hi>Father,</hi> when he is <hi>All</hi> in <hi>All.</hi>
+            </p>
+            <p>
+               <label>Q.</label> This being a very Great Point, and ſo Differently Ex<g ref="char:EOLhyphen"/>pounding thoſe Fundamental Points of the <hi>Reſurrection,</hi> and of the <hi>Day of Judgment,</hi> as in the <hi>Kingdom of Chriſt;</hi> There need beſides the given Proofs of Scripture; which are gene<g ref="char:EOLhyphen"/>rally Explained ſo, as to Reach no further then the Com<g ref="char:EOLhyphen"/>mon Expoſition of theſe Doctrines; Great Accounts of Scrip<g ref="char:EOLhyphen"/>ture Reaſon drawn from the moſt Intimate Sence of it, to Eſtabliſh ſuch an Expoſition?</p>
+            <p>
+               <label>A.</label> There are Exceeding High Accounts from Scripture-Reaſon of the <hi>Manifold Wiſdom, Holineſs,</hi> and <hi>Juſtice</hi> of God in this Grand <hi>Oeconomy,</hi> or <hi>Diſpenſation.</hi>
+            </p>
+            <p>
+               <label>Q.</label> Give Account of the Firſt, and Fundamental, and moſt Immediate Reaſon of ſuch a Diſpenſation?</p>
+            <p>
+               <label>A.</label> That there might be a State of <hi>Viſible Appearance</hi> of the <hi>Glory of Chriſt,</hi> and of his <hi>Saints;</hi> and of the Contempt, <hi>Diſ<g ref="char:EOLhyphen"/>honour,</hi> and Retributions of Juſtice on Wicked Men; For that Theſe Things ſhould <hi>Appear,</hi> be ſet in open View, in a Full and Clear Light is every where made Known in <hi>Strip<g ref="char:EOLhyphen"/>ture.</hi> Firſt as a Recompence to the Deep Humiliation of Je<g ref="char:EOLhyphen"/>ſus Chriſt Himſelf, and to his <hi>Saints</hi> who have been all along, but eſpecially ſince the Delay of his <hi>Kingdom</hi> at his Reſurrecti<g ref="char:EOLhyphen"/>on in a Low, Scorn'd, and Perſecuted State; <hi>Tortur'd</hi> by Cruelties, and Forc'd out of the World by Violent Deaths; who have therefore from the Truth of God been Arm'd, and Encourag'd in their Obedience, and againſt theſe Sufferings, by the Aſſurance of a <hi>Viſible Appearance</hi> in <hi>Glory,</hi> and <hi>Reign</hi> with Chriſt; and of the Viſible <hi>Shame,</hi> and <hi>Confuſion</hi> of their <hi>Ene<g ref="char:EOLhyphen"/>mies,</hi> and of all Wicked and Unholy Men, who have ſo obſtainately preferr'd the Preſent before a Future State, <hi>Eſay,</hi> 65. 13, 14, and to the End. <hi>Mic.</hi> 7. 17. and <hi>Dan.</hi> 12. 1, 2. <hi>Phil.</hi> 2. 9, 10, 11. <hi>Heb.</hi> 11. 35. with many more Scriptures.</p>
+            <p>
+               <label>Q.</label> But can there be no <hi>Appearance</hi> of this Glory, and of
+<pb n="11" facs="tcp:40234:9"/> that <hi>Contempt,</hi> but in ſuch a ſtate of the <hi>Kingdom of Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> No: Not in this World; becauſe however ſome Ap<g ref="char:EOLhyphen"/>pearances may <hi>be of theſe</hi> Things on each ſide in ſome In<g ref="char:EOLhyphen"/>ſtances: Yet in General All is ſo in Confuſion and Diſorder here, and this is the very <hi>Croſs-Handed</hi> State of <hi>Evil</hi> to the <hi>Servants of God,</hi> and of the <hi>Proſperity</hi> of <hi>Wicked Men,</hi> that no Man <hi>Knows Love or Hatred by All that is before him;</hi> Not in the State of <hi>Spirits in Heaven</hi> above, or in <hi>Priſon below:</hi> For All Scripture Reaſon makes it moſt Evident, There can be no <hi>Appearance</hi> without a <hi>Reſurrection;</hi> Not in the State of <hi>Eternity:</hi> For then <hi>God All in All,</hi> as the <hi>Higheſt Glory</hi> Swallows up the Leſs; when <hi>God is All in All,</hi> The <hi>Son is ſubject;</hi> There muſt be therefore a Diſtance of the <hi>Rain-bow</hi> (the <hi>Emblem</hi> of Chriſts <hi>Kingdom</hi>) from the Sun, that its Beauties may be ſeen; ſo the Glory of Chriſt in his <hi>Humane Nature,</hi> and of his <hi>Saints</hi> in viſi<g ref="char:EOLhyphen"/>ble <hi>Glory,</hi> muſt be ſeen at a Diſtance from <hi>God All in All:</hi> Not in the <hi>Day of Judgment,</hi> or the <hi>Reſurrection,</hi> as a ſhort Tranſi<g ref="char:EOLhyphen"/>tory Space: For that could be no <hi>Kingdom,</hi> nor any Appea<g ref="char:EOLhyphen"/>rance worthy ſo Great a Cauſe, that had only a moment; But it muſt be a ſettled <hi>Oeconomy,</hi> or State of Duration; the <hi>Full<g ref="char:EOLhyphen"/>neſs</hi> of <hi>Times,</hi> as it own proper <hi>Times,</hi> and not ſhort <hi>Time</hi> on<g ref="char:EOLhyphen"/>only; When the Great Potentate gives a Show, it ſhall be of a thouſand years Duration: <hi>Eccleſ.</hi> 9. 1. 1 <hi>Cor.</hi> 15. 28. <hi>Epheſ.</hi> 1. 10. 1 <hi>Tim.</hi> 6. 15. <hi>Rev.</hi> 20. 6.</p>
+            <p>
+               <label>Q.</label> How may This be alſo Set in Agreement with the State of the Wicked?</p>
+            <p>
+               <label>A.</label> Very exactly; For here They very generally appear in Proſperity; And the State of the <hi>Second Death</hi> is a State Given, as Removed from all Appearance: <hi>Pſal.</hi> 73. all along, <hi>Rev.</hi> 20. laſt. So that there muſt be ſuch a peculiar State of Appea<g ref="char:EOLhyphen"/>rance under <hi>Wrath,</hi> according to all <hi>Scripture.</hi>
+            </p>
+            <p>
+               <label>Q.</label> Is not This a Curioſity only of Speculation, or of what Practical Force is it?</p>
+            <p>
+               <label>A.</label> Surely of very Great; ſeeing nothing is ſo ſuited to moving to Repentance, and to <hi>perſwade</hi> us to Holineſs as this <hi>Terror</hi> of the <hi>Lord,</hi> that is ſo ſuited to men Knowing, and un<g ref="char:EOLhyphen"/>derſtanding Themſelves, as here in <hi>Bodies:</hi> And which is ſo written in Nature, that Any Inſtances of it in this World, either of Gods Crowning Holy Perſons and their Actions with Honour; or his Judgments on wicked Men made Examples here, do above All other Things exceedingly Affect us, 2 <hi>Cor.</hi>
+               <pb n="12" facs="tcp:40234:10"/> 5. 10. 11. <hi>Pſal.</hi> 64. 7. 8. 9. And the Contrary is by <hi>Solomon</hi> Accounted the Great Cauſe of Impenitency. <hi>Eccleſ.</hi> 8. 11.</p>
+            <p>
+               <label>Q.</label> How comes it then to paſs, the <hi>Reſurrection</hi> hath been no more thus Explain'd and preſs'd?</p>
+            <p>
+               <label>A.</label> Becauſe the darkneſs of the <hi>Apoſtaſie,</hi> and <hi>Love of this pre<g ref="char:EOLhyphen"/>ſent World,</hi> as if the Glory of it were Given to <hi>Antichriſt,</hi> as the <hi>Vicar</hi> of Chriſt, is that <hi>Word,</hi> which the <hi>Apoſtle</hi> ſays, hath <hi>Eaten</hi> as it were a <hi>Gangrene;</hi> as if the <hi>Reſurrection</hi> were now <hi>already;</hi> or as if there were no <hi>Reſurrection</hi> in ſuch a State of <hi>Glory,</hi> and of <hi>Viſible Appearance</hi> in <hi>contempt,</hi> but a ſudden Tranſlation into <hi>Eternity</hi> with God, or in the <hi>Lake,</hi> 1 Cor. 15. 12. 2 Tim. 2. 17. 18.</p>
+            <p>
+               <label>Q.</label> Give Account of a Second Scripture Ground of this <hi>Viſible Glory,</hi> and <hi>Kingdom</hi> of Chriſt, and of the Subjection of his <hi>Enemies?</hi>
+            </p>
+            <p>
+               <label>A.</label> Without ſuch a State of the <hi>Kingdom of Chriſt</hi> in the <hi>Creation reſtor'd,</hi> or in a <hi>Reſtitution</hi> of All Things, the Re<g ref="char:EOLhyphen"/>demption of Chriſt were not Perfect and Compleat; For what<g ref="char:EOLhyphen"/>ever the <hi>Firſt Adam</hi> deſolated, the <hi>Second Adam</hi> was to <hi>Reſtore,</hi> and to Bring again into order; There muſt be therefore a De<g ref="char:EOLhyphen"/>liverance of the Creature from the <hi>Bondage of Corruption,</hi> and from all their mutual Enmities; So that the <hi>Wolf</hi> and the <hi>Lamb</hi> may <hi>dwell together, &amp;c.</hi> And on this very Account There muſt be a <hi>Generation of Saints</hi> below, as <hi>Adam</hi> and his <hi>Seed</hi> ſhould have been in <hi>Paradiſe;</hi> and the <hi>Saints dead in Chriſt,</hi> in a Reſtored State in the <hi>Heaven</hi> above, (which Evil Spirits now Inhabit,) and from thence They behold the Glory, and Happineſs of the Humane nature in the <hi>Remaining Saints</hi> here below; and the whole Creation of God, as Renewed and Re<g ref="char:EOLhyphen"/>ſtored by the Mediator, and by Him ſet out in Glory; accor<g ref="char:EOLhyphen"/>ding to <hi>Pſal.</hi> 8. which is by <hi>Heb. 2. 5. &amp;c.</hi> Applyed to the <hi>World to come,</hi> whereof <hi>we ſpeak,</hi> and to Jeſus Chriſt <hi>Adoninu</hi> or <hi>Lord</hi> in our Nature, or the <hi>Second Adam.</hi>
+            </p>
+            <p>
+               <label>Q.</label> But is there any proof, that this State of <hi>Reſtitution</hi> per<g ref="char:EOLhyphen"/>tains not only to the Glory, but to the eſſential perfection of the <hi>Redemption?</hi>
+            </p>
+            <p>
+               <label>A.</label> I Account the <hi>Apoſtle</hi> hath given us the proof of this in the <hi>Reſurrection,</hi> the greateſt Inſtance of the <hi>Reſtitution;</hi> So that by a Parallel with that, the whole <hi>Reſtitution</hi> will be prov'd alſo to pertain to the eſſential Perfection of this <hi>Re<g ref="char:EOLhyphen"/>demption.</hi>
+            </p>
+            <p>
+               <label>Q.</label> What is that proof?</p>
+            <pb n="13" facs="tcp:40234:10"/>
+            <p>
+               <label>A.</label> It is 1 <hi>Cor.</hi> 15. 12. and ſo forward.</p>
+            <p>
+               <label>Q.</label> How do you draw out the proof of what you are upon, according to that <hi>Scripture?</hi>
+            </p>
+            <p>
+               <label>A.</label> In theſe Four Things.</p>
+            <p n="1">1. That whatever <hi>Adam</hi> loſt, and whatever was a Part of the <hi>Death,</hi> Threatned upon <hi>Adam's Fall,</hi> muſt be Reſtor'd by the <hi>Second Adam,</hi> the <hi>Mediator.</hi> For ſo ſaith the <hi>Apoſtle, v.</hi> 21. 22. and he Brings it in by way of Argument; <hi>For ſince by Man came Death,</hi> by <hi>Man came alſo the Reſurrection of the Dead;</hi> And as in <hi>Adam All Dye, ſo in Christ ſhall All be made Alive:</hi> By Agreement of Reaſon, ſince by Man came the <hi>Curſe</hi> on the <hi>Creation of God,</hi> by Man came alſo the <hi>Reſtitution,</hi> and if there be Argument in one, It muſt be alſo in the other.</p>
+            <p n="2">2. A Future State of Happy <hi>Spirits,</hi> might be ſuppoſed. without a <hi>Reſurrection,</hi> as well as a State of <hi>Spirits</hi> in miſery without a <hi>Reſurrection;</hi> Now the <hi>Apoſtle</hi> ſuppoſes a State of <hi>Spi<g ref="char:EOLhyphen"/>rits</hi> in <hi>Miſery,</hi> though there be no <hi>Reſurrection of the Dead.</hi> For Thoſe words; <hi>v. 17. You are yet in your Sins,</hi> ſuppoſe a State of Future <hi>Miſery</hi> of <hi>Spirits</hi> without a <hi>Reſurrection;</hi> Therefore There might be a State of Chriſt in the Glory of <hi>Spirits,</hi> and ſo of his <hi>Saints,</hi> though no <hi>Reſurrection;</hi> But this according to the <hi>Apoſtle's</hi> Argument will not ſuffice the very eſſential per<g ref="char:EOLhyphen"/>fection of the <hi>Redemption</hi> without a <hi>Reſurrection;</hi> Proportiona<g ref="char:EOLhyphen"/>bly the <hi>Curſe</hi> upon the <hi>Creation,</hi> being a part of <hi>Adam's Death,</hi> as appears, <hi>Gen.</hi> 3. 18. 19. That muſt be taken off, as neceſ<g ref="char:EOLhyphen"/>ſary to the eſſential Perfection of the <hi>Redemption;</hi> And a Happy State of <hi>Eternity</hi> in a diſſolved <hi>Creation,</hi> can no more ſuffice, then a Happy State of <hi>Spirits</hi> without a <hi>Reſurrection.</hi>
+            </p>
+            <p n="3">3. The <hi>
+                  <g ref="char:V">Ʋ</g>njust</hi> Ariſe, and are yet in <hi>Their Sins,</hi> for They Riſe to <hi>Condemnation;</hi> So that a <hi>Reſurrection</hi> without a State of this <hi>Reſtitution,</hi> wherein that <hi>Reſurrection</hi> ſhall be Happy, is a <hi>Death,</hi> and not a <hi>Reſurrection</hi> in general <hi>Scripture</hi> Account; Therefore <hi>Reſurrection</hi> is to Glory all along this Chapter.</p>
+            <p n="4">4. To the Compleating of this parallel betwixt the <hi>Firſt Adam's death,</hi> and the <hi>Second Adams Life;</hi> There muſt be a <hi>Wee of Saints,</hi> who ſhall not <hi>dye,</hi> but be <hi>Changed,</hi> making up the <hi>All,</hi> the Full number of <hi>Saints, viz.</hi> Thoſe who are <hi>Dead</hi> in <hi>Chriſt,</hi> and Thoſe who are <hi>Changed;</hi> For in the State of <hi>Reſti<g ref="char:EOLhyphen"/>tution;</hi> There can be no <hi>Death</hi> to the <hi>Seed</hi> of the <hi>Second Adam:</hi> And if It be in this World, It muſt be a World in a State of <hi>Reſtitution.</hi> And becauſe ſuch a State on Earth had been, if <hi>Adam</hi> had not ſinn'd, It muſt be now by the <hi>Second Adam.</hi>
+            </p>
+            <pb n="14" facs="tcp:40234:11"/>
+            <p>
+               <label>Q.</label> Is there yet any Further Account of the <hi>Kingdom of Chriſt</hi> from <hi>Scripture</hi> Reaſon?</p>
+            <p>
+               <label>A.</label> There is yet the Higheſt <hi>Scripture</hi> Reaſon for the <hi>King<g ref="char:EOLhyphen"/>dom of Jeſus Chriſt;</hi> that is, that His <hi>Saints</hi> may be Fitted to be <hi>deliver'd up,</hi> with the <hi>Kingdom</hi> to <hi>God,</hi> and to the <hi>Father,</hi> that <hi>He may be All in All;</hi> which is the ultimate End, and Laſt Re<g ref="char:EOLhyphen"/>ſult of All Things; The <hi>Apoſtle</hi> therefore diſcourſes of the <hi>Kingdom of Chriſt,</hi> as in an Immediate Conjunction with, and Subordination to that <hi>Eternal Kingdom</hi> of the <hi>Father, God All in All.</hi> 1 Cor. 15. 28.</p>
+            <p>
+               <label>Q.</label> Why do you call this the Higheſt <hi>Scripture</hi> Account of the <hi>Kingdom of Jeſus Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> Becauſe, That which is the Higheſt, and laſt means to the Higheſt and Laſt End (which Higheſt and Laſt end, gives value and Reaſon to All means) Receives the Higheſt Reaſon, and the moſt Abſolute neceſſity for it ſelf from that Laſt End; now It is moſt evident, and certain from the <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> diſcourſe, The <hi>Kingdom of Chriſt</hi> is the Higheſt, and Laſt means to the Laſt, and Higheſt End; It is the Higheſt, becauſe It Alone is thought worthy to Touch, and Attain that End, And It is the Laſt; becauſe no other comes between it, and that End; For when in this <hi>Kingdom Chriſt</hi> hath Fully <hi>de<g ref="char:EOLhyphen"/>clar'd God's Name</hi> to the <hi>Saints,</hi> and put down all <hi>Rule Authority,</hi> and <hi>Power</hi> in order to <hi>God's</hi> being <hi>All in All;</hi> Then in the High<g ref="char:EOLhyphen"/>eſt, and laſt Act of <hi>Subduing,</hi> or <hi>Caſting Death and Hell into the Lake,</hi> and alſo in the Higheſt Act of <hi>declaring the Name of God,</hi> It <hi>delivers up it ſelf,</hi> and is <hi>ſubject,</hi> that <hi>God may be All in All.</hi> John 17. 26. 1 Cor. 15. 28. 54. <hi>&amp;c. Revel.</hi> 20. laſt.</p>
+            <p>
+               <label>Q.</label> If the <hi>Kingdom deliver'd up to God</hi> and the <hi>Father,</hi> be the Laſt End, It muſt be an End before all <hi>Oeconomy,</hi> or <hi>Diſpenſa<g ref="char:EOLhyphen"/>tion</hi> of means, For the End muſt be before all means; How do you ſtate this?</p>
+            <p>
+               <label>A.</label> It muſt needs be ſo, even before <hi>Creation</hi> it ſelf, and therefore we Read ſo often of the <hi>Purpoſe of God</hi> before, or from the <hi>Foundation of the World, Epheſ. 1. c.</hi> 3. And It Contain theſe Two Things, as not of Free <hi>Diſpenſation,</hi> but of Abſolute neceſ<g ref="char:EOLhyphen"/>ſity.</p>
+            <p n="1">1. That the Eternal Reſt of All Created Beings, can be only in <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> to the <hi>Father,</hi> the <hi>Word,</hi> the <hi>Spirit,</hi> who are <hi>One,</hi> and who <hi>Inhabit Eternity;</hi> Creatures therefore below be<g ref="char:EOLhyphen"/>ing capable of this <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi> as All, which have not Underſtand<g ref="char:EOLhyphen"/>ing, are Annihilated; And Creatures of Underſtanding, <hi>An<g ref="char:EOLhyphen"/>gels</hi>
+               <pb n="15" facs="tcp:40234:11"/> and <hi>Men</hi> can be no other, then miſerable in the loſs of this <hi>
+                  <g ref="char:V">Ʋ</g>nion; Hell</hi> therefore the loweſt <hi>Lake,</hi> lies in departing from God. <hi>Mat.</hi> 25. 45. 46.</p>
+            <p n="2">2. The <hi>Eternal <g ref="char:V">Ʋ</g>nion,</hi> if there be ſuch an <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi> (which is of <hi>Free Grace</hi> only) can be only by <hi>God</hi> to <hi>God,</hi> and ſo muſt be by the <hi>Eternal word,</hi> through the <hi>Eternal Spirit</hi> to the <hi>Father:</hi> Now among All the Varieties of Diſpenſations, wherein Theſe Grand Ends, which upon the ſuppoſition of Crea<g ref="char:EOLhyphen"/>tures <hi>Eternally</hi> Happy are Abſolutely neceſſary, are brought to paſs by Infinite Wiſedom, and Power, The <hi>Kingdom of Christ</hi> is Supreme in the order of means, or Diſpenſations, as is evi<g ref="char:EOLhyphen"/>dent in that, It is the Laſt, and ſo Supreme.</p>
+            <p>
+               <label>Q.</label> If the <hi>Kingdom of Chriſt</hi> be the Supreme <hi>Diſpenſation,</hi> and means, It muſt then be in the Eye of God, before any other Means or <hi>Diſpenſation;</hi> And if Creation be but <hi>Diſpenſation</hi> in order to the Supreme End of God, being <hi>All in All;</hi> the <hi>King<g ref="char:EOLhyphen"/>dom of Chriſt</hi> muſt be in the Eye of God before <hi>Creation</hi> it ſelf, either of <hi>Angels</hi> or <hi>Men?</hi>
+            </p>
+            <p>
+               <label>A.</label> And ſo the <hi>Scripture</hi> always Repreſents it; The <hi>Lamb</hi> had the <hi>Book of Life</hi> for his <hi>Kingdom</hi> before the <hi>Foundation of the World,</hi> and His <hi>Purpoſe</hi> in Chriſt is an <hi>Eternal Purpoſe;</hi> And <hi>Angels</hi> and <hi>Men,</hi> even All Things were <hi>Created by Him and for Him,</hi> and by Him They <hi>Conſiſt.</hi> Epheſ. 3. 11. Col. 1. 15. to 21.</p>
+            <p>
+               <label>Q.</label> But are not Theſe Things to be underſtood of Chriſt, as He is the <hi>Eternal Word,</hi> and not as in our <hi>Nature?</hi>
+            </p>
+            <p>
+               <label>A.</label> They are All proper to the <hi>Eternal Word,</hi> not by way of Free <hi>Diſpenſation,</hi> but Abſolutely, and Eternally; and to the <hi>Eternal word</hi> in our <hi>Nature,</hi> by way of Free <hi>Divine Diſpen<g ref="char:EOLhyphen"/>ſation</hi> in order to the union of all Created Beings of Underſtand<g ref="char:EOLhyphen"/>ing to <hi>God All in All.</hi>
+            </p>
+            <p>
+               <label>Q.</label> Wherein then ſtands this <hi>Diſpenſation?</hi>
+            </p>
+            <p>
+               <label>A.</label> In that, the <hi>Eternal word</hi> far above <hi>Angels, Principalities, Powers</hi> Became lower then the <hi>Angels,</hi> by Becoming Man; and ſo Comprehended the whole <hi>Created Intellectual Nature,</hi> that he might be the <hi>Head</hi> of the whole in their <hi>
+                  <g ref="char:V">Ʋ</g>nion to God;</hi> And that <hi>in Him,</hi> They might <hi>All</hi> be <hi>Reconciled to God</hi> with the whole Inferior <hi>Creation;</hi> (which Having ſerv'd the Glory of the <hi>Creator by Jeſus Chriſt,</hi> They <hi>Fly</hi> back into their Former State of Nothing in themſelves, but indeed are Re<g ref="char:EOLhyphen"/>turn'd into the Divine Immenſity,) and <hi>Angels</hi> and Men be <hi>
+                  <g ref="char:V">Ʋ</g>nited</hi> to God for ever, <hi>Epheſ.</hi> 1. 10. <hi>Col.</hi> 1. 20.</p>
+            <pb n="16" facs="tcp:40234:12"/>
+            <p>
+               <label>Q.</label> What need could the <hi>Angels,</hi> who never ſinned, have of a <hi>Mediator,</hi> by whom They ſhould be <hi>
+                  <g ref="char:V">Ʋ</g>nited</hi> to God, or what Sign is there in Scripture of any ſuch thing?</p>
+            <p>
+               <label>A.</label> In that even Pureſt <hi>Created</hi> Nature is <hi>not Clean</hi> in his ſight; that is, Compar'd with the Infinite Holineſs of God, and that there is <hi>Folly</hi> in it; The <hi>Angels,</hi> that <hi>Stand, Stand</hi> by their <hi>E<g ref="char:EOLhyphen"/>lection,</hi> and <hi>Cover their Faces before God,</hi> and <hi>Chriſt,</hi> in an Hum<g ref="char:EOLhyphen"/>ble, Thankful, and Reverential Acknowledgment hereof; <hi>Learn by the Church</hi> the Great <hi>Myſteries of</hi> the <hi>Goſpel,</hi> Adore and <hi>Worſhip</hi> the <hi>Firſt Begotten, Coming</hi> into his Great <hi>World to Come,</hi> and Converſe in <hi>Innumerable Companies</hi> with his <hi>Saints</hi> above, and below in his <hi>Kingdom,</hi> even as they Serve, as <hi>Miniſtring Spirits</hi> now for the <hi>Heirs</hi> of that <hi>Kingdom, Job.</hi> 4. 18. c. 15. 15. 1 <hi>Tim.</hi> 5. 21. <hi>Iſa.</hi> 6 2. <hi>Epheſ.</hi> 3. 10. 1 <hi>Pet.</hi> 1. 12.</p>
+            <p>
+               <label>Q.</label> How did Chriſt Appear in this <hi>Diſpenſation</hi> for <hi>Man</hi> be<g ref="char:EOLhyphen"/>fore his <hi>Fall?</hi>
+            </p>
+            <p>
+               <label>A.</label> If God Charges even the <hi>Holy Angels</hi> with <hi>Folly,</hi> ſo that the <hi>Heavens</hi> were not <hi>Clean in his Sight; How much leſs Men, whoſe Houſes are of Clay,</hi> and whoſe <hi>Foundation</hi> is <hi>in the Duſt?</hi> There muſt be therefore a proſpect in the Divine Eye of their State in a <hi>Mediator,</hi> and as in <hi>Glorious Bodies, Job</hi> 4. 19. <hi>Phil.</hi> 3. 21.</p>
+            <p>
+               <label>Q.</label> What <hi>Types,</hi> or <hi>Fore-Appearances</hi> were there hereof?</p>
+            <p>
+               <label>A.</label> 
+               <hi>Adam</hi> Himſelf, as Comprehending <hi>Humane Nature</hi> in his State of Holineſs, and Bleſſedneſs, even before his Fall was, but a <hi>Type</hi> of Him, that <hi>was to Come,</hi> and who did indeed ſo Comprehend all his <hi>Seed.</hi> The Firſt Sabbath was but a Type of the Great <hi>Sabbatiſm</hi> of the <hi>Second Adam,</hi> that Remains to the <hi>Peo<g ref="char:EOLhyphen"/>ple of God</hi> in the <hi>World to Come;</hi> For This <hi>Sabbatiſm</hi> then <hi>Remain'd;</hi> Although the <hi>Works</hi> were <hi>Finiſh'd</hi> from the <hi>Foundation of the World;</hi> and That <hi>Paradiſe</hi> was but a <hi>Type</hi> of the <hi>Paradice</hi> of <hi>God, Rom.</hi> 5. 14. <hi>Heb.</hi> 4. 3, 4. <hi>Rev.</hi> 2. 7.</p>
+            <p>
+               <label>Q.</label> But how does the State of the <hi>Kingdom of Chriſt</hi> Agree with the <hi>Redemption</hi> of <hi>Fallen Man by Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> Admirably it Agrees, and in a much Fuller and Clearer View; For His <hi>Saints,</hi> as in Higheſt Repreſentation of his <hi>Re<g ref="char:EOLhyphen"/>demption</hi> are every ſingle Perſon, in <hi>Robes waſh'd white in his Blood;</hi> They are <hi>Prieſts of God,</hi> and <hi>of Chriſt,</hi> as to their <hi>Ju<g ref="char:EOLhyphen"/>ſtified</hi> State; And as to their <hi>Sanctification,</hi> the <hi>Throne of God,</hi> and of the <hi>Lamb,</hi> are in the <hi>midſt</hi> of <hi>Them,</hi> They <hi>ſee his Face,</hi> as <hi>his Servants they ſerve Him, His Name</hi> is in their <hi>Fore-heads:</hi>
+               <pb n="17" facs="tcp:40234:12"/> They are, as the <hi>Pillars of his Temple,</hi> and <hi>Go out no more</hi> from Him; And there can in <hi>no wiſe Enter into that State Any Thing that defileth,</hi> ſo that every one muſt be Holy. As to their <hi>Hap<g ref="char:EOLhyphen"/>pineſs,</hi> and <hi>Glory,</hi> They <hi>Reign with Chriſt for ever;</hi> Thus in the particulars; Conſider them together as in the <hi>General Aſſembly,</hi> and <hi>Church</hi> of the <hi>Firſt born written</hi> in <hi>Heaven;</hi> And ſo They are the <hi>New Jeruſalem,</hi> the <hi>Bride</hi> or <hi>Lambs wife,</hi> to whom <hi>It is Given</hi> in Regard of <hi>Juſtification</hi> to be <hi>Cloathed with Linnen, White,</hi> and <hi>Clean, which is the Righteouſneſs of the Saints;</hi> As to <hi>Holineſs,</hi> It is <hi>Clear,</hi> as a moſt <hi>Precious Jaſper,</hi> and <hi>Wall'd High,</hi> and Guarded by <hi>Watch</hi> of <hi>Angels</hi> from all <hi>Defilement;</hi> As to <hi>Hap<g ref="char:EOLhyphen"/>pineſs</hi> and <hi>Eternal</hi> ſecurity; The <hi>Lord God,</hi> and the <hi>Lamb</hi> are the <hi>Light</hi> thereof, and the <hi>Glory of God Enlightens</hi> it, that it can ſee in no other Light; <hi>God and the Lamb</hi> are the <hi>Temple</hi> of it, that cannot be defiled; The City hath the <hi>Tree of Life, Bearing Twelve ſeveral kinds of Fruit, viz.</hi> an univerſality and perfection of <hi>Life;</hi> and a <hi>River of Life, Clear as Chryſtal, Pro<g ref="char:EOLhyphen"/>ceeding</hi> from the <hi>Throne. Heb.</hi> 12. 25. <hi>Rev.</hi> c. 20. c. 21. c. 22.</p>
+            <p>
+               <label>Q.</label> But how does ſo Great a State, and the ſo High Expreſ<g ref="char:EOLhyphen"/>ſions of it, work as to the <hi>Delivery up of the Kingdom</hi> to God <hi>All in All,</hi> and to Chriſt as the Bond of union?</p>
+            <p>
+               <label>A.</label> Theſe Two ways, Firſt, That the State of <hi>Delivery up of the Kingdom to God All in All,</hi> cannot be better expounded to us, then in thoſe ſo divine words of our Lord in his <hi>Mediato<g ref="char:EOLhyphen"/>ry Prayer. John 17. 21. That They All may be one, as Thou Father art in me, And I in Thee, That They alſo may be one in us, that the World may Believe, that Thou haſt ſent me; And the Glory which Thou gaveſt me, Have I given Them, that They may be one as we are one; I in Them, and Thou in me, That they may be made perfect in one, and that the World may Believe, that Thou haſt ſent me, and haſt loved Them, as Thou hast loved me; Father, I will that Thoſe which Thou hast given me, may be with me, where I am, and may Behold my Glory, which Thou hast given me; For Thou loved'ſt me be<g ref="char:EOLhyphen"/>fore the Foundation of the World; Oh! Righteous Father, The World hath not known Thee, But I have known Thee; And Theſe have known that Thou hast ſent me; And I have declared to them Thy Name and will declare it, that the Love wherewith Thou haſt loved me, may be in Them,</hi> and <hi>I in Them.</hi>
+            </p>
+            <p>
+               <label>Q</label> What Ariſes from theſe words to our preſent purpoſe?</p>
+            <p>
+               <label>A.</label> Firſt, That ſo High Expreſſions can fit no State, but of <hi>God All in All,</hi> even as He was before the Foundation of the
+<pb n="18" facs="tcp:40234:13"/> World <hi>All in All;</hi> and to which State, Our Lord's words ſo much Refer; when <hi>All the Saints</hi> are thus one with <hi>God in Chriſt,</hi> then is He thus <hi>All in All,</hi> as before the <hi>World</hi> began. Second<g ref="char:EOLhyphen"/>ly, That as this State Requires the Higheſt Purification; of which the <hi>Purification</hi> of the <hi>Virgins,</hi> for the <hi>Royal Bed</hi> of <hi>Aha<g ref="char:EOLhyphen"/>ſuerus</hi> is but a dark <hi>Emblem;</hi> ſo no Expreſſions of ſuch a pre<g ref="char:EOLhyphen"/>paratory Purification, but as before Repreſented in the <hi>New Jeruſalem,</hi> and <hi>Kingdom of Christ,</hi> can be parallel to ſuch a Puri<g ref="char:EOLhyphen"/>fication; But They Reach it, and Admirably Reach it; The preſent State of <hi>Sanctification</hi> is much too Low for it; The Purity of the <hi>Bride,</hi> the <hi>Lambs Wife,</hi> and of the <hi>Saints</hi> in this <hi>Kingdom</hi> Riſes to it. Thirdly, All this Preparation, and this <hi>Eternal <g ref="char:V">Ʋ</g>nion</hi> is in the <hi>Eternal word,</hi> who was <hi>with the Father,</hi> and <hi>One with him,</hi> and whom the <hi>Father loved</hi> before the <hi>Foundation of the World;</hi> And He thus prepares his <hi>Saints</hi> not only in this State, (though here alſo) but in his <hi>Kingdom</hi> moſt Highly, Compleatly, Perfectly, and therefore eſpecially. <hi>John</hi> 17. 24. 26.</p>
+            <p>
+               <label>Q.</label> Give me the ſecond way, how ſo Great a State, and ſo High Expreſſions of it work, to the <hi>Delivery up of the Kingdom</hi> to <hi>God All in All?</hi>
+            </p>
+            <p>
+               <label>A.</label> In that, although this <hi>Kingdom of Chriſt</hi> be ſo Holy, ſo Heavenly, ſo Pure, ſo much of God in it, and ſo Happy, and Bleſſed in <hi>Christ,</hi> and in his <hi>Saints;</hi> yet becauſe It is the <hi>Kingdom of the Man Chriſt Jeſus,</hi> and of his <hi>Saints</hi> in a viſible Created Glory, and not the Higheſt <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> to <hi>God All in All,</hi> Chriſt Gives this Laſt Declaration of the <hi>Name,</hi> that is of the Nature, and Glory of God; He freely <hi>Delivers</hi> up this his <hi>Kingdom,</hi> and the <hi>Son,</hi> as in humane Nature, ſuffers moſt wil<g ref="char:EOLhyphen"/>lingly that Glory of Himſelf, and of his <hi>Saints,</hi> to be <hi>Swallow'd</hi> up by <hi>God All in All,</hi> and <hi>unites</hi> them with Himſelf to the <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> as He is the <hi>Eternal word;</hi> and ſo <hi>They are with Him for ever, Beholding the Glory He had</hi> with the <hi>Father,</hi> before <hi>the World was;</hi> which is the Higheſt Inſtance of ſelf-denial of all <hi>Created Glory,</hi> and Giving up All to <hi>God All in All,</hi> that could be given. <hi>John</hi> 17. 5.</p>
+            <p>
+               <label>Q.</label> What Signs are there of ſuch a Preparation in the <hi>King<g ref="char:EOLhyphen"/>dom of Chriſt</hi> for <hi>God All in All?</hi>
+            </p>
+            <p>
+               <label>A.</label> In Token of this, this State is call'd a <hi>Sabbatiſm,</hi> a <hi>Para<g ref="char:EOLhyphen"/>diſe;</hi> There is a <hi>Tree of Life,</hi> and a <hi>River of Life;</hi> All which Point to the Higher Perfection of <hi>
+                  <g ref="char:V">Ʋ</g>nion with God All in All,</hi>
+               <pb n="19" facs="tcp:40234:13"/> then was even in that <hi>Kingdom of Chriſt;</hi> Even as <hi>Prieſthood,</hi> and a <hi>Temple-State</hi> do; For though <hi>God,</hi> and the <hi>Lamb</hi> be the <hi>Tem<g ref="char:EOLhyphen"/>ple;</hi> Yet God being our <hi>Temple,</hi> is not ſo High, as our <hi>
+                  <g ref="char:V">Ʋ</g>nion to God All in All.</hi>
+            </p>
+            <p>
+               <label>Q.</label> How does the State of the wicked Agree with this ſo High State of the <hi>Kingdom of Chriſt</hi> in preparation to their be<g ref="char:EOLhyphen"/>ing caſt into the <hi>Lake,</hi> when God is <hi>All in All?</hi>
+            </p>
+            <p>
+               <label>A.</label> Their being in a <hi>Viſible State,</hi> and beholding the <hi>Glory of Christ,</hi> and of his <hi>Saints</hi> in a <hi>Viſible State,</hi> gives them that Con<g ref="char:EOLhyphen"/>viction; that the <hi>Father ſent Chriſt,</hi> that He <hi>Loved the Saints,</hi> as He <hi>Loved Chriſt,</hi> that They are Forc'd to <hi>Know</hi> and to <hi>Be<g ref="char:EOLhyphen"/>lieve</hi> it; For this They could not ſee here, but would be High<g ref="char:EOLhyphen"/>ly perſwaded of the Contrary; And when the <hi>Saints</hi> are <hi>Deli<g ref="char:EOLhyphen"/>vered up to God All in All,</hi> and They in the <hi>Lake;</hi> It is not then to be ſeen by Them; In this <hi>Kingdom,</hi> then It muſt be ſeen; And yet in this very State, they being Irreconcileable to the <hi>Divine Kingdom;</hi> They are even with the <hi>Comfort of the Saints,</hi> Beholding their <hi>Abhorr'd State,</hi> and way, <hi>Caſt into the Lake,</hi> that They might be no more Annoyance to the <hi>Divine King<g ref="char:EOLhyphen"/>dom,</hi> but at an utter Separation from it, Remembred no more, cut off for ever from the Hand of God in a <hi>Land</hi> of <hi>Silence, Forgetfulneſs,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>tter Darkneſs,</hi> Ezek. 14. 22. Rev. 20. laſt.</p>
+            <p>
+               <label>Q.</label> But how are the <hi>Saints</hi> below Fitted then for this State of being <hi>Deliver'd up to God All in All?</hi>
+            </p>
+            <p>
+               <label>A.</label> They having their part in all the Priviledges of the <hi>Saints</hi> above, and being <hi>Caught up to Chriſt</hi> before the <hi>Delivery</hi> up of the <hi>Kingdom,</hi> are thereby fitted to be <hi>Deliver'd up with All Saints,</hi> and to be united to <hi>God All in All.</hi>
+            </p>
+            <p>
+               <label>Q.</label> But ſeeing the <hi>Saints of Chriſt</hi> have been alſo All <hi>Sinners,</hi> and many of Them very <hi>Great Sinners,</hi> and ſome not brought home to Chriſt till <hi>Death;</hi> Whereas many of the <hi>Loſt</hi> have been of <hi>Fair</hi> and <hi>Innocent Lives;</hi> how can ſuch a difference in this <hi>Viſible State</hi> of the <hi>Reſurrection,</hi> conſiſt with the <hi>Glory of Ju<g ref="char:EOLhyphen"/>ſtice,</hi> then to be manifeſted?</p>
+            <p>
+               <label>A.</label> The <hi>Infinite Richneſs of Grace</hi> having made in All the <hi>Saints,</hi> the Great difference of <hi>
+                  <g ref="char:V">Ʋ</g>nion to Chriſt,</hi> in the Glory of whoſe <hi>Righteouſneſs</hi> They <hi>Appear,</hi> and thereby in the <hi>Participa<g ref="char:EOLhyphen"/>tion</hi> of the <hi>Divine Nature,</hi> Their <hi>Sins</hi> are ſo <hi>Blotted</hi> out through the <hi>Blood of the Lamb,</hi> in this State of <hi>Re-enlivening,</hi> as though, <hi>They are ſought for, They cannot be found;</hi> And even the <hi>Works</hi> of the Few Moments of <hi>Holy Action,</hi> as of Converts, how near
+<pb n="20" facs="tcp:40234:14"/> Death ſoever <hi>Follow Them,</hi> and are ſo enlarg'd by the <hi>Obedience of Chriſt,</hi> the <hi>Linnen white</hi> and <hi>clean,</hi> which is the <hi>Righteouſneſs of the Saints,</hi> that It Inveſts Them; All which makes the dif<g ref="char:EOLhyphen"/>ference betwixt the <hi>Saints,</hi> and the <hi>Reprobate</hi> Inconceivable; For the <hi>Talents,</hi> that the <hi>Reprobate</hi> might have here by Gener<g ref="char:EOLhyphen"/>al Grace to Adorn Them, are <hi>Taken from them,</hi> and All their <hi>Sins find them out,</hi> and are as the <hi>Garment that covers them,</hi> and the <hi>Girdle,</hi> wherewith They are <hi>Girded continually;</hi> Allowing yet the differences of <hi>Puniſhment</hi> betwixt the more, and leſs <hi>Malicious Sinners. Jerem.</hi> 50. 20. <hi>Luke</hi> 23. 40. &amp;c. <hi>Mat.</hi> 25. 28.</p>
+            <p>
+               <label>Q.</label> But the <hi>Kingdom of Chriſt</hi> ſeems a State of <hi>Purgation</hi> for that laſt State of <hi>Delivering</hi> up the <hi>Kingdom to God All in All;</hi> Why may not therefore ſome, that have not <hi>Repented</hi> here, <hi>Find place</hi> in that State for <hi>Repentance,</hi> eſpecially when ſome are <hi>Converts</hi> ſo near <hi>Death;</hi> and ſo many dye <hi>Infants,</hi> and are <hi>Sav'd,</hi> who had no <hi>ſpace</hi> of ſerving God in this World?</p>
+            <p>
+               <label>A.</label> In the deep, and wiſe diſpoſe of God (beſides that Stan<g ref="char:EOLhyphen"/>dard of <hi>Glorifying God here on Earth,</hi>) the <hi>Spirits</hi> unreconciled to God in Chriſt, and unſanctified in the very moment, wherein They leave the Body, become <hi>Deviliſh, James</hi> 3. 15. and ſo can be no more chang'd after, then <hi>Devils;</hi> and the Bodies being laid down without any Seeds of the <hi>Divine Life,</hi> not the <hi>Temples</hi> of the <hi>Holy Spirit,</hi> are Taken up in the very ſame State, and can never be chang'd, becauſe the <hi>Spirit</hi> to Inhabit them, cannot: And ſo thus as the <hi>Spirits of Holy Men,</hi> are Pled<g ref="char:EOLhyphen"/>ges of Happineſs to the whole Man, ſo the <hi>Spirits</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>nholy Men</hi> in <hi>Priſon</hi> are Hoſtages for the whole man to Juſtice under Wrath; and hereby there is in each order of <hi>Spirits,</hi> having in themſelves a ſenſe of their Future Condition, a Pre<g ref="char:EOLhyphen"/>paration for the <hi>Kingdom of Chriſt</hi> in <hi>Glory,</hi> or in <hi>Diſhonour;</hi> For thus there is no diſcontinuance in the Senſe, and Know<g ref="char:EOLhyphen"/>ledge, Each have in the Reaſons of the Future State, as there would be if the <hi>Spirits of Men, ſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pt in the duſt,</hi> as their <hi>Bodies</hi> do, till the <hi>Reſurrection</hi> and that <hi>Viſible</hi> Appearance in the <hi>Judgment</hi> and <hi>Kingdom of Chriſt;</hi> But They are <hi>Spirits in Priſon,</hi> or with Chriſt. 1 <hi>Pet.</hi> 3. 19. <hi>Philip.</hi> 1. 23.</p>
+            <p>
+               <label>Q.</label> But there ſeems to be ſome Greater Refinement of <hi>Saints,</hi> in the <hi>Kingdom of Christ</hi> for <hi>
+                  <g ref="char:V">Ʋ</g>nion to God All in All?</hi>
+            </p>
+            <p>
+               <label>A.</label> The <hi>Spirits of Saints</hi> having been with Chriſt from their Leaving the Body, and in the very beginning of the <hi>Kingdom of Chriſt,</hi> the whole<note n="*" place="margin">Juſt Men, not Spirits, made per<g ref="char:EOLhyphen"/>fect.</note> Man being made perfect, <hi>Heb.</hi> 12. 23. They
+<pb n="21" facs="tcp:40234:14"/> are for 1000 years <hi>Confirm'd</hi> in that moſt perfect State, and with <hi>Angels</hi> They Behold in this Great <hi>Oeconomy,</hi> the utmoſt God is pleas'd to have ſeen in a Created State, in order to <hi>
+                  <g ref="char:V">Ʋ</g>nion with God All in All,</hi> and ſo are <hi>Deliver'd</hi> up with <hi>the King<g ref="char:EOLhyphen"/>dom;</hi> the Juſt Contrary to which is in every particular to Wicked Men for their being <hi>Caſt into the Lake.</hi>
+            </p>
+            <p>
+               <label>Q.</label> Hath not the <hi>Eternal Word</hi> in <hi>Humane Nature</hi> a <hi>Kingdom</hi> throughout <hi>Eternity?</hi>
+            </p>
+            <p>
+               <label>A.</label> The <hi>Eternal Word</hi> in <hi>Humane Nature</hi> hath a <hi>Kingdom</hi> throughout <hi>Eternity;</hi> but not as the <hi>Son of Man,</hi> but as the <hi>E<g ref="char:EOLhyphen"/>ternal Word;</hi> The <hi>Glory</hi> in which then Chriſt is ſeen by his <hi>Saints,</hi> being the <hi>Glory</hi> he had with the <hi>Father</hi> before the <hi>World Began,</hi> of the ſame Nature wherein He is now at the <hi>Right Hand of God,</hi> till <hi>He appears;</hi> and the <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> in that <hi>Eternal</hi> State is by <hi>God</hi> to <hi>God,</hi> by the <hi>Word</hi> to the <hi>Father;</hi> ſo the <hi>Son</hi> as <hi>Man</hi> is <hi>Subject</hi> and <hi>God All in All,</hi> John 17. 5, 24.</p>
+            <p>
+               <label>Q.</label> Is God excluded in the <hi>Kingdom of the Son?</hi>
+            </p>
+            <p>
+               <label>A.</label> No; He is <hi>Excepted,</hi> ſaith the Apoſtle, who <hi>put All Things under Chriſt;</hi> The <hi>Throne of God,</hi> even as of the <hi>Lamb</hi> is in the <hi>New Jeruſalem,</hi> It is <hi>Gods Kingdom;</hi> He <hi>Appoints ſitting at the Right and Left Hand of Chriſt;</hi> But the <hi>Divinity</hi> pleaſes ſo to <hi>Oeconomize</hi> its own <hi>Glory,</hi> that the <hi>Son may be ſeen to Reign in Glory,</hi> 1 <hi>Cor.</hi> 15. 27. <hi>Revel.</hi> 22. 3. <hi>Mat.</hi> 20, 23. <hi>Phil.</hi> 2. 11.</p>
+            <p>
+               <label>Q.</label> But it ſeems by the High Expreſſion of God, who is pureſt <hi>Spirit,</hi> being <hi>All in All;</hi> and by the <hi>Lake of the Second Death,</hi> and even the <hi>New Heaven,</hi> and <hi>New Earth</hi> after the 1000 Years <hi>Flying away, Revel.</hi> 20. 11. there is no Bodily or Material Na<g ref="char:EOLhyphen"/>ture Continued, no not of the Son's <hi>Glorious Body,</hi> who is then <hi>Subject,</hi> nor of his <hi>Saints?</hi>
+            </p>
+            <p>
+               <label>A.</label> 
+               <hi>Scripture</hi> having Declar'd no ſuch Thing, No ſuch Thing can be ſuppos<g ref="char:punc">▪</g>d, but that <hi>Chriſt and his Saints</hi> ſhall be <hi>in Bodies;</hi> But it is certain; There ſhall be Higheſt <hi>Spirituality</hi> in Confor<g ref="char:EOLhyphen"/>mity to the <hi>Divine Nature,</hi> that He may be <hi>All</hi> in <hi>All,</hi> and in <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> to Chriſt, moſt <hi>Spiritual Bodies;</hi> Even as in the Lake, All the <hi>Damned</hi> become <hi>Spiritual Wickedneſſes</hi> to the Higheſt Degree; All which Confirms the Nature, and State of the <hi>Reſurrection</hi> to ſtand in <hi>Viſibility,</hi> and <hi>Appearance</hi> for the thou<g ref="char:EOLhyphen"/>ſand Years. <hi>Phil.</hi> 3. 21. <hi>Epheſ.</hi> 6. 12.</p>
+            <p>
+               <label>Q.</label> What kind of State muſt that be of the <hi>Beaſt,</hi> and of the <hi>Falſe Prophet,</hi> who are <hi>Caſt Living</hi> into the <hi>Lake,</hi> even before, the <hi>Devil,</hi> the <hi>Dead, Death,</hi> and <hi>Hell</hi> are Caſt into it? <hi>Rev.</hi> 19. 20. c. 20. 10. &amp;c.</p>
+            <pb n="22" facs="tcp:40234:15"/>
+            <p>
+               <label>A.</label> The finding out the meaning of that State is the more neceſſary, becauſe it will much clear that Laſt Iſſue, or Caſt<g ref="char:EOLhyphen"/>ing of the <hi>Devil, Death,</hi> and <hi>Hell,</hi> into the <hi>Lake:</hi> 1. The <hi>Caſting</hi> into the <hi>Lake</hi> therefore ſignifies Finall, and moſt utter Ceſſation of Action; ſo that the <hi>Caſting</hi> the <hi>Beaſt,</hi> and the <hi>Falſe Prophet into</hi> the <hi>Lake</hi> Imports to us, that the <hi>Antichriſtian State,</hi> of which the Beaſt, and the <hi>Falſe Prophet</hi> were the Supream Conſtitu<g ref="char:EOLhyphen"/>ents, or Parts, being the Counterfeit, and Undermine of the True <hi>Kingdom of Chriſt,</hi> ſhall, as the Apoſtle ſpeaks, 2 <hi>Theſ.</hi> 2.8. be utterly <hi>Conſum'd,</hi> and <hi>Aboliſh'd</hi> by it. 2. In that it is a <hi>Lake Burning with Fire and Brimſtone;</hi> It ſpeaks ſevereſt Puniſhment, and Torment by the <hi>True Kingdom of Chriſt</hi> ſhining upon the <hi>Beaſt,</hi> and <hi>Falſe Prophet,</hi> and as it were in their very Faces. 3. In that the <hi>Beaſt,</hi> and the <hi>Falſe Prophet</hi> are <hi>Caſt Alive</hi> into <hi>the Lake;</hi> It Declares; that the Full <hi>Abolition</hi> of the <hi>Antichri<g ref="char:EOLhyphen"/>ſtian Kingdom</hi> ſhall be in the very Beginning of the <hi>Kingdom</hi> of Chriſt; and that the Puniſhment of the <hi>Antichriſtian King<g ref="char:EOLhyphen"/>dom</hi> as the Counterfeit, and Undermine of the <hi>Kingdom of Chriſt</hi> ſhall be the moſt Conſpicuous, and Illuſtrious of all the Puniſhing Part of <hi>Chriſts Kingdom;</hi> So that All other <hi>Ene<g ref="char:EOLhyphen"/>mies</hi> of Chriſts <hi>Kingdom</hi> ſhall be only as <hi>Dead Men, Slain with the Sword of Chriſts Mouth,</hi> in Compariſon; But the Se<g ref="char:EOLhyphen"/>verity upon the <hi>Anti-chriſtian Kingdom</hi> ſhall be like <hi>Burning A<g ref="char:EOLhyphen"/>live,</hi> as it were in Juſt Recompence of their <hi>Vivi-Comburia,</hi> or <hi>Burning</hi> Thoſe Servants of Chriſt They call'd <hi>Hereticks, Alive;</hi> upon the Beaſt his Falſe Prophet, and all their Worſhippers, and their <hi>Babilon;</hi> And the Smoke of their <hi>Torment Aſcendeth for ever and ever;</hi> and Wicked Men <hi>have their part</hi> firſt, but are not caſt till the very End into the <hi>Lake. Rev.</hi> 19. 3. 21. <hi>c.</hi> 21. 8.</p>
+            <p>
+               <label>Q.</label> How is This to be Applied to the <hi>Caſting the Devil, Hell,</hi> and <hi>Death,</hi> with all their <hi>Dead</hi> into the <hi>Lake, juſt before Chriſt Delivers up the Kingdom?</hi>
+            </p>
+            <p>
+               <label>A.</label> Hence it Appears, That the Action of the <hi>Devil</hi> in <hi>Deceiving</hi> is only <hi>Chain'd</hi> up, but not utterly <hi>Aboliſh'd</hi> in the <hi>thouſand Years Kingdom</hi> of Chriſt: For He is <hi>Looſed</hi> out of <hi>Pri<g ref="char:EOLhyphen"/>ſon</hi> for a <hi>Little Space</hi> after the <hi>Thouſand Years,</hi> and He <hi>Deceives the Nations</hi> again; But <hi>Fire comes down</hi> ſuddenly from <hi>Heaven</hi> on thoſe <hi>Nations</hi> in the very Attempt; and then an utter end is put to Sathans whole Action; For He is <hi>Caſt into the Lake,</hi> and ſo notwithſtanding the Victory over <hi>Death</hi> in the <hi>Firſt Re<g ref="char:EOLhyphen"/>ſurrection</hi> of <hi>Dead Saints,</hi> and the <hi>Living Remaining Saints not Dy<g ref="char:EOLhyphen"/>ing,</hi>
+               <pb n="23" facs="tcp:40234:15"/> but being <hi>Chang'd;</hi> Yet till They are all Actually <hi>Chang'd,</hi> ſo that <hi>Mortality</hi> or Poſſibility of Dying <hi>Puts</hi> on <hi>Immortality,</hi> and <hi>Corruption</hi> puts <hi>Incorruption,</hi> and ſo Mortality is <hi>ſwallowed up of Life</hi> in the <hi>Living Remaining Saints Caught up,</hi> even as in the <hi>Dead in Chriſt Riſing firſt,</hi> who cannot <hi>Dye any more,</hi> being in <hi>perfect Immortality,</hi> Luc. 20. 36. <hi>Death</hi> and <hi>Hell,</hi> with all their own Subjects, the <hi>Dead</hi> are not <hi>Caſt</hi> into <hi>the Lake,</hi> ſo as to be utterly <hi>Aboliſh'd from any</hi> poſſible place in the <hi>Kingdom of God.</hi> Then They are; and when this <hi>Laſt Enemy Death</hi> is thus <hi>ſub<g ref="char:EOLhyphen"/>dued,</hi> Chriſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Then,</hi> ſo Long after his Firſt Beginning to <hi>Reign, Delivers up the Kingdom,</hi> having Done all to be Done, as the <hi>Second Adam,</hi> and God is <hi>All in All:</hi> But ſtill and for ever, even <hi>Eternally,</hi> That <hi>Lake Burns with Fire and Brimſtone;</hi> For the <hi>Kingdom of Life</hi> ſhines in the Face of it with <hi>Everlaſt<g ref="char:EOLhyphen"/>ing Torment</hi> while it is not yet able to Return one of its <hi>Sulphur</hi> Steams in Revenge, 1 <hi>Cor.</hi> 15. 24, 55, 56. <hi>Revel.</hi> 20. 10. to the end. 2 <hi>Theſſ.</hi> 1. 9.</p>
+            <p>
+               <label>Q.</label> Have we any Accounts of Time kept in <hi>Scripture</hi> from the Firſt <hi>Creation</hi> to the Times of <hi>Reſtitution,</hi> or of the <hi>Kingdom of Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> There hath been for the ſake of it kept a Conſtant Ac<g ref="char:EOLhyphen"/>count of Time, from one Point to the other.</p>
+            <p>
+               <label>Q.</label> What Reaſon have you to think ſo?</p>
+            <p>
+               <label>A.</label> Becauſe as the Firſt <hi>Coming of Chriſt</hi> in the Fleſh is ſaid to be in the <hi>Fulneſs of Time, viz.</hi> of that Time; Becauſe it was in be in the <hi>Fulneſs of Time, viz.</hi> of that Time; Becauſe it was in the Juſt Time according to <hi>Daniels</hi> ſeventy Weeks and according to the Agreement of all Chriſtians; So this Time of the <hi>Heading</hi> of <hi>All Things</hi> under Chriſt in his <hi>Kingdom,</hi> is call'd the <hi>Fulneſs,</hi> not of <hi>Time,</hi> as of one Time, but of <hi>Times</hi> as of all <hi>Times,</hi> Iſſuing according to Juſt Account into it: And further it is call'd the <hi>Oeconomy,</hi> or the wiſe Order of All <hi>Times</hi> in Re<g ref="char:EOLhyphen"/>lation to it by the Supream, and wiſe <hi>Pater-Familias,</hi> or Go<g ref="char:EOLhyphen"/>vernour of the World; who as the Great <hi>Potentate, King of Kings,</hi> and <hi>Lord of Lords</hi> Giving the whole <hi>Family</hi> of <hi>Angels,</hi> and <hi>Men</hi> a Show of and for his Glory, would have it at this <hi>Fulneſs</hi> of <hi>Times,</hi> for a <hi>Thouſand Years;</hi> and Theſe are call'd <hi>Gods,</hi> or <hi>Chriſts Proper Times,</hi> and the <hi>Times of Refreſh<g ref="char:EOLhyphen"/>ment,</hi> and the <hi>Times</hi> of <hi>Reſtitution,</hi> as in the Juſt Place of that Time: All which ſpeaks, that there was a Strict Calculation of Time for it, and to it; <hi>Gal.</hi> 4. 4. <hi>Epheſ.</hi> 1. 10. <hi>Acts</hi> 3. 21. 1 <hi>Tim.</hi> 6. 15.</p>
+            <pb n="24" facs="tcp:40234:16"/>
+            <p>
+               <label>Q.</label> Where is This Account of Time to be Found?</p>
+            <p>
+               <label>A.</label> It is to be found all along <hi>Holy Scripture</hi> in this manner; In the Firſt Roll of <hi>Patriarchs</hi> from the <hi>Creation</hi> to <hi>Shem,</hi> the Head of the <hi>New World</hi> after the <hi>Flood,</hi> 1658 years. <hi>Geneſis</hi> 5. <hi>c.</hi> 11. 10.</p>
+            <p>From <hi>Shem</hi> to <hi>Abraham, Receiving the Promiſes</hi> by the Second Roll of <hi>Patriarchs,</hi> 425 <hi>Y. Gen.</hi> 11. to <hi>c.</hi> 12.</p>
+            <p>From thence to the <hi>Going</hi> out of <hi>Egypt,</hi> immediately before the <hi>Tabernacle of Teſtimony</hi> ſet up, 430 <hi>Y. Exod.</hi> 12. 40. <hi>c.</hi> 40.</p>
+            <p>From thence to <hi>Solomon's Temple,</hi> Begun in his <hi>Fourth Year,</hi> and ſo to his <hi>Death,</hi> 516 <hi>Y.</hi> 1 <hi>Kings c.</hi> 6. 1. <hi>c.</hi> 11. 42.</p>
+            <p>From thence to <hi>Ezekiel's Divine Temple</hi> and <hi>City,</hi> drawn by his <hi>Bearing</hi> the <hi>Sin of Iſrael,</hi> divided from <hi>Judah</hi> ſo many <hi>Days</hi> for <hi>Years,</hi> according to the <hi>Reign</hi> of <hi>Iſrael's Kings,</hi> to their <hi>Cap<g ref="char:EOLhyphen"/>tivity,</hi> and then by the <hi>Kings</hi> of <hi>Judah,</hi> to 14 years after the <hi>City Jeruſalem ſmitten,</hi> and the <hi>Temple Burnt,</hi> 390 <hi>Y. Ezek.</hi> c. 4. 4. 5. <hi>c.</hi> 40. 1. <hi>&amp;c.</hi>
+            </p>
+            <p>From thence to the End of <hi>Judah's Captivity,</hi> drawn by the <hi>Forty days</hi> for <hi>Years</hi> of <hi>Ezekiel, Bearing the Sin of Judah,</hi> as from that viſion of the <hi>City</hi> and <hi>Temple,</hi> to <hi>Cyrus his Firſt year, 40 Y. Ezek. c. 4. 4. 5. c 40. 1. Ezra</hi> 1. 1.</p>
+            <p>From thence by the <hi>Sanctuary,</hi> that then lay Trodden un<g ref="char:EOLhyphen"/>der <hi>Foot</hi> to the <hi>Sanctuary</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Church Cleans'd;</hi> drawn in the 2300 <hi>Evens. Morns.</hi> according to the <hi>Prophetical Cypher</hi> before nam'd, and eſtabliſh'd for after Times of a <hi>Day for a Year,</hi> 2300 <hi>Y.</hi> Dan. 8. 13. 14.</p>
+            <p>
+               <label>Q.</label> Can we know whereabout we are in nearneſs to the <hi>Kingdom of Chriſt,</hi> by ſo long a Line of Time?</p>
+            <p>
+               <label>A.</label> If we would be diligent in Searching, and Comparing <hi>Scripture,</hi> we might find this Line divided into 75 <hi>Years</hi> before <hi>Daniel's 70 Weeks</hi> began, for the <hi>Word going forth</hi> to <hi>Reſtore,</hi> and <hi>Build Jeruſalem;</hi> Into 490 by thoſe 70 <hi>Weeks,</hi> for the <hi>Death</hi> and <hi>Reſurrection of Meſſiah,</hi> and the firſt <hi>Apoſtolical</hi> Preaching to the <hi>Jews;</hi> Into 1260 of the <hi>Roman Papal Apoſtaſie;</hi> Into 30 and 45. after that <hi>Apoſtaſie,</hi> making firſt the 1260 1290, then the 1290 1335. The firſt 75 in preparation to the <hi>Litteral Je<g ref="char:EOLhyphen"/>ruſalem,</hi> and <hi>Temple Reſtor'd</hi> after <hi>Litteral Babylon falling,</hi> and the laſt 75 preparing to the <hi>New Jeruſalem,</hi> after <hi>Myſtical Baby<g ref="char:EOLhyphen"/>lon falling,</hi> exactly Anſwer One after Another; and by all theſe Summs laid together, we certainly know There muſt be 400 between the <hi>Weeks</hi> ended, and that <hi>Apoſtaſie</hi> began: From
+<pb n="25" facs="tcp:40234:16"/> whence It Follows, we muſt be in the 2218 <hi>Even. Morn.</hi> juſt 7 <hi>Years</hi> before the <hi>Fall</hi> of <hi>Myſtical Babylon,</hi> Dan. 9. 24. <hi>c.</hi> 12. 11. 12.</p>
+            <p>
+               <label>Q.</label> Is there any other way of knowing the Time?</p>
+            <p>
+               <label>A.</label> There is, even plainly Running into ordinary Obſer<g ref="char:EOLhyphen"/>vation; For there are <hi>Time, Times, Half a Time,</hi> plainly gi<g ref="char:EOLhyphen"/>ven to the <hi>Beaſt,</hi> the laſt Part of the <hi>Roman Fourth Monarchy</hi> in <hi>Daniel, c.</hi> 7. 25. and <hi>Sworn</hi> to Him for Scattering the Holy People, <hi>c.</hi> 12. 7. and the <hi>Church</hi> is Accordingly ſaid to be in the Wilderneſs for thoſe <hi>Times,</hi> in the <hi>Revelation; Rev.</hi> 12. 14. Now at the <hi>Reformation,</hi> There was ſuch a Retrenchment of the Papal Power, as could not be till the <hi>Morning of the Half Time,,</hi> with the Truth of <hi>Prophecy;</hi> Then there might, even as Chriſt might <hi>Riſe</hi> at the <hi>Morning</hi> of the <hi>Third day,</hi> though according to <hi>Prophecy,</hi> He was to be <hi>Three days</hi> and <hi>Three nights</hi> in the <hi>Heart of the Earth:</hi> The <hi>Reformation</hi> therefore Beginning at 1517, by <hi>Luther,</hi> as all Agree, and the <hi>Half Time</hi> being an 180 <hi>Years,</hi> as being the Half of 360 a <hi>Time;</hi> It muſt needs be There can be but 7 <hi>Years</hi> to the End of the 1260, and ſo to the <hi>Kingdom of Chriſt,</hi> preparing to <hi>Cleanſe his Sanctuary,</hi> for his <hi>Kingdom</hi> 1772; So we muſt be in the 2218 <hi>Even. Morn.</hi>
+            </p>
+            <p>
+               <label>Q.</label> Why then did not the <hi>Papacy</hi> wholly Fall at the <hi>Refor<g ref="char:EOLhyphen"/>mation?</hi>
+            </p>
+            <p>
+               <label>A.</label> That there might be as punctual a performance of the Full Time of the Three <hi>Times,</hi> and a Half to the <hi>Papacy,</hi> as could conſiſt with the <hi>Kingdom of Chriſt,</hi> to which ſome Ap<g ref="char:EOLhyphen"/>pearance was at that Time due.</p>
+            <p>
+               <label>Q.</label> Can the <hi>Reformation</hi> then be perfect?</p>
+            <p>
+               <label>A.</label> No, For the <hi>Thunders</hi> that open'd to it, were Seal'd; and There are <hi>They of the Synagogue of Sathan,</hi> that ſtay the Glo<g ref="char:EOLhyphen"/>ry of it, till the <hi>Philadelphian</hi> State come; And then even They ſhall worſhip at <hi>Philadelphia's Feet, Rev.</hi> 3. 9. <hi>c.</hi> 10. 4.</p>
+            <p>
+               <label>Q.</label> When ſhall that be?</p>
+            <p>
+               <label>A.</label> At the very ſame Time, when the <hi>Popacy</hi> falls; For <hi>They of the Synagogue</hi> ſtand by that Title, and then <hi>Bow;</hi> For Chriſt <hi>makes them</hi> by Grace ſo to <hi>Worſhip,</hi> that is, to <hi>Bow.</hi>
+            </p>
+            <p>
+               <label>Q.</label> How can ſuch a Computation conſiſt with <hi>No One Know<g ref="char:EOLhyphen"/>ing</hi> of that <hi>Day</hi> and <hi>Hour,</hi> not the <hi>Angels,</hi> nor the <hi>Son,</hi> but the <hi>Father only Mark</hi> 13. 32.</p>
+            <p>
+               <label>A.</label> 
+               <hi>God</hi> is ſaid therefore, as on purpoſe to <hi>Give the Revelation to Jeſus Christ,</hi> to <hi>ſhew to his Servants,</hi> what before was only in
+<pb n="26" facs="tcp:40234:17"/> the <hi>Father's</hi> Cognizance; And then Bleſſed is He that <hi>Reads,</hi> or Expounds, and They who <hi>Hear</hi> or underſtand what is ſo <hi>Re<g ref="char:EOLhyphen"/>veal'd</hi> by <hi>God to Christ. Revel.</hi> 1. 1. 3.</p>
+            <p>
+               <label>Q.</label> But Chriſt further ſays, <hi>Watch,</hi> for you <hi>Know not the Day</hi> nor the <hi>Hour</hi> when your <hi>Lord cometh? Mark</hi> 13. 35.</p>
+            <p>
+               <label>A.</label> That <hi>Watch</hi> is a Spiritual <hi>Watch,</hi> without which, tho' a Man <hi>Knew the day,</hi> or <hi>Hour</hi> never ſo preciſely, Yet He would not <hi>Know the day,</hi> and <hi>Hour</hi> of his <hi>Lords coming,</hi> but It would be to Him, as of a <hi>Theif in the Night;</hi> and as a man dics in that <hi>Watch,</hi> or the neglect of it; So Chriſt comes upon Him, tho' ma<g ref="char:EOLhyphen"/>ny Hundred Years after <hi>Death;</hi> if It were not ſuch a <hi>Watch,</hi> the Apoſtle had diſcharg'd the <hi>Theſſalonians</hi> of it, by Adjuring them not to expect the day of Chriſt, till after the <hi>Apoſtaſie;</hi> and in Them all Chriſtians after, till that <hi>Apoſtaſie</hi> expire. 2 <hi>Theſſ.</hi> 2. 1.</p>
+            <p>
+               <label>Q.</label> Are the <hi>Thouſand Years</hi> of <hi>Chriſt's Kingdom, Litterally,</hi> or <hi>Myſtically</hi> to be underſtood?</p>
+            <p>
+               <label>A.</label> They are both ways to be underſtood, <hi>Litterally,</hi> Adding ſo many Years to the Time Allotted to the <hi>Viſible Creation,</hi> till All be <hi>Deliver'd up to God Himſelf; Myſtically,</hi> as a <hi>Thouſand Years</hi> are a <hi>Cube</hi> of Time, ſignifying the perfection of Time, which none of the <hi>Patriarchs</hi> after <hi>Adams Fall</hi> could Attain, how near ſoever They came to it. <hi>Gen.</hi> 5.</p>
+            <p>
+               <label>Q.</label> Is it no Impeachment to the <hi>Kingdom of Chriſt</hi> never end<g ref="char:EOLhyphen"/>ing, that <hi>Sathan</hi> is loos'd at the end of the 1000 <hi>Years,</hi> and <hi>De<g ref="char:EOLhyphen"/>ceives</hi> the <hi>Nations</hi> to a new Attempt?</p>
+            <p>
+               <label>A.</label> No, For It only gives Juſt occaſion to Chriſt, to mag<g ref="char:EOLhyphen"/>nifie his Power, Judiciary Authority, Juſtice, and the Final <hi>Putting down All Rule and Power,</hi> and <hi>Subduing the Laſt Enemies,</hi> the <hi>Devil,</hi> the <hi>Dead,</hi> and <hi>Death,</hi> and <hi>Hell;</hi> And having Quickly drawn up all the <hi>Living Saints</hi> to his <hi>Own. Throne</hi> firſt, according to 1 <hi>Cor. 15. 24. 51. 1 Theſſ. 4. 17. Rev. c. 3. 21. Rev. 20.</hi> and ſo <hi>Giving up the Kingdom,</hi> every way perfectly prepar'd to God <hi>All in All,</hi> the Glory of having Faithfully managed, and hap<g ref="char:EOLhyphen"/>pily Atcheiv'd All Things is for ever due to Him. <hi>John</hi> 17. 24.</p>
+            <p>
+               <label>Q.</label> Are the Worſhip, and Ordinances of the <hi>New Teſta<g ref="char:EOLhyphen"/>ment</hi> any way <hi>Prefigurative</hi> of this <hi>Kingdom of Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> Very Fully, For the <hi>Goſpel</hi> is the <hi>Goſpel,</hi> and <hi>word of this Kingdom;</hi> The <hi>Prayer,</hi> we ſtile <hi>The Lords Prayer,</hi> is the <hi>Prayer of this Kingdom</hi> Taught to all his <hi>Diſciples;</hi> The <hi>Lords Day</hi> is the <hi>Type,</hi> and Pledge of that <hi>Sabbatiſm; Baptiſm</hi> is the <hi>Figure</hi> of being Sav'd, 1 <hi>Pet.</hi> 3. 21. from that <hi>Deluge of Fire;</hi> The
+<pb n="27" facs="tcp:40234:17"/> 
+               <hi>Lords Supper,</hi> is the <hi>ſhewing forth his Death</hi> till <hi>He Come, 1 Cor.</hi> 11. 26. Then that <hi>Paſſover is fullfill'd,</hi> and that <hi>Fruit of the Vine drunk New,</hi> Luc. 22. 16. 18. Nor can any of the <hi>Old Te<g ref="char:EOLhyphen"/>ſtament Types, Prophecies,</hi> and <hi>Promiſes</hi> be Fully Drawn out, but in that <hi>Kingdom,</hi> and <hi>Appearance;</hi> So that in Summ it is the <hi>Everlaſting Goſpel, God</hi> hath always been <hi>Goſpelizing</hi> throughout the <hi>Old,</hi> and <hi>New Teſtament,</hi> Rev. 10. 7.</p>
+            <p>
+               <label>Q.</label> But if Theſe Truths are of this Great Weight, Can the <hi>Churches of the Saints</hi> be ſo unacquainted with Them?</p>
+            <p>
+               <label>A.</label> Even, as the <hi>Jewiſh Saints,</hi> and the very Apoſtles were Ignorant of the <hi>Sacrifice, Reſurrection, Aſcention,</hi> and <hi>Interceſſi<g ref="char:EOLhyphen"/>on</hi> of Chriſt, ſo <hi>Fundamental</hi> Points; till the <hi>Powring down the Spirit</hi> for <hi>Preaching</hi> the <hi>Goſpel</hi> then; Even ſo, and much more may the <hi>Saints of Goſpel</hi> Times, even now, till the Second <hi>Powring down the Spirit</hi> for the <hi>Preaching the Everla<g ref="char:EOLhyphen"/>ſting Goſpel</hi> be, and have been Ignorant of the Full Dimenſi<g ref="char:EOLhyphen"/>ons of the <hi>Redemption of Chriſt Fulfill'd</hi> in his <hi>Kingdom;</hi> of the <hi>Glory</hi> of that <hi>Oeconomy</hi> to the <hi>Higheſt Glory of God</hi> the <hi>Father in his Creation</hi> and <hi>Love of Man;</hi> of the <hi>Reſurrection,</hi> as ſuch a <hi>viſi<g ref="char:EOLhyphen"/>ble Appearance</hi> of the <hi>Juſt</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>njuſt</hi> for a <hi>Thouſand Years,</hi> the <hi>Dead in Chriſt Riſing firſt;</hi> Of the <hi>Myſtery</hi> of the <hi>Saints Re<g ref="char:EOLhyphen"/>maining,</hi> and <hi>Living</hi> on <hi>Earth,</hi> making up the Full Number of all <hi>Saints,</hi> and not <hi>Dying</hi> but being <hi>Chang'd;</hi> of the neceſſity, ac<g ref="char:EOLhyphen"/>cording to this <hi>Oeconomy</hi> of the Infinitely Holy and Wiſe <hi>Be<g ref="char:EOLhyphen"/>ing,</hi> of ſuch a Preparation for the <hi>Saints,</hi> as <hi>Prieſts of God and Chriſt a Thouſand Years,</hi> to be <hi>
+                  <g ref="char:V">Ʋ</g>nited to God All in All:</hi> And notwithſtanding this Ignorance, They may be True <hi>Churches of Saints;</hi> but the nearer the Time Approaches, the <hi>Slowneſs</hi> of <hi>Heart to Know,</hi> and <hi>Believe</hi> theſe Things, will Argue a grea<g ref="char:EOLhyphen"/>ter <hi>Lukewarmneſs</hi> for the <hi>Kingdom, Glory,</hi> and <hi>Coming</hi> of <hi>Chriſt,</hi> and It hath been all along a dark Shade of the <hi>Apoſtaſie</hi> upon the Churches.</p>
+            <p>
+               <label>Q.</label> What <hi>Spirit</hi> are we then to be of, with Relation to the <hi>coming</hi> of Chriſt in this his <hi>Kingdom?</hi>
+            </p>
+            <p>
+               <label>A.</label> Of the Vehement, and even Paſſionate <hi>Spirit</hi> of the <hi>Bride,</hi> which ſays, <hi>Come; Make haſt my beloved</hi> to the <hi>Mountain of Spi<g ref="char:EOLhyphen"/>ces, Anointed</hi> for thy <hi>Kingdom</hi> with that <hi>Precious Oyntment</hi> (that <hi>Antichriſt</hi> now Counterfeits to his Death) as the Great <hi>Prince Meſſiah,</hi> the <hi>Prieſt for ever after the order of Melchiſedec,</hi> and thy <hi>Saints,</hi> as <hi>Kings,</hi> and <hi>Prieſts</hi> with Thee in that Great Day of thy <hi>Nuptials</hi> in thy <hi>Kingdom:</hi> Rev. 22. 17. Cantic. 8. 14. Exod. 30. 33. Pſal. 110. 4. Rev. 20. 2.</p>
+            <pb n="28" facs="tcp:40234:18"/>
+            <p>
+               <label>Q.</label> You ſeem to have forgotten this <hi>Marriage,</hi> ſo great an <hi>Emblem</hi> of the <hi>Thouſand Years Kingdom</hi> of Chriſt in <hi>Scripture?</hi>
+            </p>
+            <p>
+               <label>A.</label> I Reſerv'd it as the <hi>Beſt Wine</hi> for the <hi>Laſt;</hi> For it is in<g ref="char:EOLhyphen"/>deed moſt often ſo made uſe of in <hi>Holy Writing;</hi> by <hi>Solomon</hi> in that moſt <hi>Prophetick, Nuptial Song of his, of the Kingdom:</hi> by <hi>Eſay. c.</hi> 62. 5. by <hi>Chriſt</hi> often; and He makes his <hi>Coming</hi> to be on purpoſe (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) [<hi>for</hi>] the ſake of the <hi>Wedding,</hi> and not as we Tranſlate, [<hi>from</hi>] it, <hi>Luc.</hi> 12. 36. By the <hi>Apo<g ref="char:EOLhyphen"/>ſtle Paul</hi> Calling it (as the Kingdom is Call'd) <hi>Myſtery, Epheſ.</hi> 5. 25. 32. By the Apoſtle <hi>John</hi> in the <hi>Prophecy</hi> of the <hi>Kingdom</hi> juſt Appearing, <hi>Rev.</hi> 19. 7. <hi>c.</hi> 21. 2. <hi>c.</hi> 22. 17. And it Carries Great Argument and Inſtruciton.</p>
+            <p>
+               <label>Q.</label> What is the Argument?</p>
+            <p>
+               <label>A.</label> That the <hi>Kingdom,</hi> which is this <hi>Wedding</hi> every where in <hi>Scripture,</hi> is not yet; For the <hi>Bridegroom</hi> is now <hi>Taken from us,</hi> as Chriſt Foretold, He would be, <hi>Luc</hi> 5. 35. Nor can it be <hi>at the Kingdom Deliver'd up;</hi> For the <hi>Second Adam</hi> (of which the Firſt <hi>Adam's,</hi> and <hi>Eves Marriage</hi> was the Type) who is the <hi>Bride<g ref="char:EOLhyphen"/>groom,</hi> is then the <hi>Bridegroom</hi> no longer; But He Unites Him<g ref="char:EOLhyphen"/>ſelf with the Bride to the <hi>Father All in All:</hi> John 17. 21. <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label>Q.</label> What is the Inſtruction?</p>
+            <p>
+               <label>A.</label> In Three Things. 1. That even the <hi>Wiſe Virgins</hi> not <hi>Bearing this New Wine in their Old Bottles, ſlumber,</hi> even as the <hi>Fooliſh,</hi> though with <hi>Oyl in their Veſſels,</hi> Grace in their Hearts which the <hi>Fooliſh</hi> not Having, were <hi>ſhut out,</hi> Mat. 25. 1. <hi>&amp;c.</hi> And 2. That we ought to be in <hi>Faſting</hi> and <hi>Sackcloth,</hi> as the <hi>Children</hi> of the <hi>Bride-Chamber,</hi> all theſe <hi>Days</hi> of the <hi>Bridegrooms</hi> being <hi>Taken from</hi> us, <hi>Luc</hi> 5. 35. 3. That we ſhould Hearing with an Ear to Hear and Thirſting moſt Affectionately to the <hi>Bridegrooms Saying; Behold I come Quickly;</hi> Reſound, <hi>Even ſo come Lord Je<g ref="char:EOLhyphen"/>ſus;</hi> That He may ſay to us in Grace; <hi>Come Then Alſo,</hi> and with me <hi>Drink the Water of Life Freely;</hi> And that we may do Thus; <hi>The Grace of the Lord Jeſus be with us All.</hi> Amen. <hi>Rev.</hi> 22. 17. to the End.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
